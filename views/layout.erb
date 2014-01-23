@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>re:dress Contemporary Clothes Agency</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="css/bootstrap.css" rel="stylesheet" media="screen">
+  <link href="css/bootstrap-theme.css" rel="stylesheet" media="screen">
+  <link href="css/bootstrap-overrides.css" rel="stylesheet" media="screen">
+</head>
+<body> 
+  <nav class="navbar navbar-default" role='navigation'>
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        <a class="navbar-brand" href="/"><img class='mobile-head' src='img/logo.png'></a>
+      </div>
+      <div class='collapse navbar-collapse' id="bs-example-navbar-collapse-1">
+        <ul class="nav navbar-nav">
+          <li><a href="/">HOME</a></li>
+          <li><a href="/about">ABOUT US</a></li>
+          <li><a href="/terms">TERMS & CONDITIONS</a></li>
+          <li><a href="/contact">CONTACT</a></li>
+        </ul>
+      </div>
+  </nav>
+  <div class='container'>
+    <%= yield %>
+  </div>
+  <footer>
+  </footer>
+</body>
+</html>

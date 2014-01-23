@@ -1,0 +1,46 @@
+body {
+	background-color: #FCFFBF;
+}
+
+img {
+	display: block;
+	max-width:292px;
+	margin-left: auto;
+	margin-right:auto;
+}
+
+h1 {
+	text-align: center;
+}
+
+.logo {
+	max-width: 35%;
+}
+
+h4 {
+	text-align: center;	
+}
+
+.navbar-nav {
+	padding-top: 17px;
+}
+
+.collapse {
+	background-color: #FCFFBF
+}
+
+ul > li > a {
+	font-size : 20px;
+}
+
+.navbar-brand {
+	padding-top: 12px;
+}
+
+ol {
+	padding: 0 120px;
+}
+
+ol > li {
+	font-size: 21px;
+}
