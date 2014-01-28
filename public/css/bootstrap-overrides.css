@@ -37,10 +37,40 @@ ul > li > a {
 	padding-top: 12px;
 }
 
-ol {
+.terms {
 	padding: 0 120px;
 }
 
 ol > li {
 	font-size: 21px;
+}
+
+.hours {
+	text-align: center;
+}
+
+.hours > p {
+	font-size: 21px;
+}
+
+footer {
+	text-align: center;
+}
+
+@media (max-width: 767px) {
+	.mobile-head {
+		height: 23px;
+	}
+
+	.navbar-collapse {
+		background-color: #FCFFBF;
+	}
+
+	.navbar-header {
+		background-color: #FCFFBF;
+	}
+
+	/*.terms {
+		padding: 0;
+	}*/
 }

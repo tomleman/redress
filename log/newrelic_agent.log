@@ -545,3 +545,1039 @@
 [01/23/14 16:25:47 +0000 Toms-MacBook-Air.local (26312)] INFO : Installing deferred Rack instrumentation
 [01/23/14 16:25:47 +0000 Toms-MacBook-Air.local (26312)] INFO : Finished instrumentation
 [01/23/14 16:25:47 +0000 Toms-MacBook-Air.local (26312)] INFO : Doing deferred dependency-detection before Rack startup
+[01/23/14 16:31:25 +0000 Toms-MacBook-Air.local (26457)] INFO : Starting the New Relic agent in "development" environment.
+[01/23/14 16:31:25 +0000 Toms-MacBook-Air.local (26457)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[01/23/14 16:31:25 +0000 Toms-MacBook-Air.local (26457)] INFO : Reading configuration from 
+[01/23/14 16:31:25 +0000 Toms-MacBook-Air.local (26457)] ERROR : Unable to read configuration file : Is a directory - /Users/tomleman/dev/redress
+[01/23/14 16:31:25 +0000 Toms-MacBook-Air.local (26457)] INFO : Enabling the Request Sampler.
+[01/23/14 16:31:25 +0000 Toms-MacBook-Air.local (26457)] INFO : Environment: development
+[01/23/14 16:31:25 +0000 Toms-MacBook-Air.local (26457)] INFO : Dispatcher: webrick
+[01/23/14 16:31:25 +0000 Toms-MacBook-Air.local (26457)] INFO : Application: development
+[01/23/14 16:31:25 +0000 Toms-MacBook-Air.local (26457)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'development'
+[01/23/14 16:31:25 +0000 Toms-MacBook-Air.local (26457)] INFO : Installing Net instrumentation
+[01/23/14 16:31:25 +0000 Toms-MacBook-Air.local (26457)] INFO : Installing Sinatra instrumentation
+[01/23/14 16:31:25 +0000 Toms-MacBook-Air.local (26457)] INFO : Installing deferred Rack instrumentation
+[01/23/14 16:31:25 +0000 Toms-MacBook-Air.local (26457)] INFO : Finished instrumentation
+[01/23/14 16:31:25 +0000 Toms-MacBook-Air.local (26457)] INFO : Doing deferred dependency-detection before Rack startup
+[01/23/14 16:31:27 +0000 Toms-MacBook-Air.local (26460)] INFO : Starting the New Relic agent in "development" environment.
+[01/23/14 16:31:27 +0000 Toms-MacBook-Air.local (26460)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[01/23/14 16:31:27 +0000 Toms-MacBook-Air.local (26460)] INFO : Reading configuration from 
+[01/23/14 16:31:27 +0000 Toms-MacBook-Air.local (26460)] ERROR : Unable to read configuration file : Is a directory - /Users/tomleman/dev/redress
+[01/23/14 16:31:27 +0000 Toms-MacBook-Air.local (26460)] INFO : Enabling the Request Sampler.
+[01/23/14 16:31:27 +0000 Toms-MacBook-Air.local (26460)] INFO : Environment: development
+[01/23/14 16:31:27 +0000 Toms-MacBook-Air.local (26460)] INFO : Dispatcher: webrick
+[01/23/14 16:31:27 +0000 Toms-MacBook-Air.local (26460)] INFO : Application: development
+[01/23/14 16:31:27 +0000 Toms-MacBook-Air.local (26460)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'development'
+[01/23/14 16:31:27 +0000 Toms-MacBook-Air.local (26460)] INFO : Installing Net instrumentation
+[01/23/14 16:31:27 +0000 Toms-MacBook-Air.local (26460)] INFO : Installing Sinatra instrumentation
+[01/23/14 16:31:27 +0000 Toms-MacBook-Air.local (26460)] INFO : Installing deferred Rack instrumentation
+[01/23/14 16:31:27 +0000 Toms-MacBook-Air.local (26460)] INFO : Finished instrumentation
+[01/23/14 16:31:27 +0000 Toms-MacBook-Air.local (26460)] INFO : Doing deferred dependency-detection before Rack startup
+[01/23/14 16:31:28 +0000 Toms-MacBook-Air.local (26463)] INFO : Starting the New Relic agent in "development" environment.
+[01/23/14 16:31:28 +0000 Toms-MacBook-Air.local (26463)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[01/23/14 16:31:28 +0000 Toms-MacBook-Air.local (26463)] INFO : Reading configuration from 
+[01/23/14 16:31:28 +0000 Toms-MacBook-Air.local (26463)] ERROR : Unable to read configuration file : Is a directory - /Users/tomleman/dev/redress
+[01/23/14 16:31:28 +0000 Toms-MacBook-Air.local (26463)] INFO : Enabling the Request Sampler.
+[01/23/14 16:31:28 +0000 Toms-MacBook-Air.local (26463)] INFO : Environment: development
+[01/23/14 16:31:28 +0000 Toms-MacBook-Air.local (26463)] INFO : Dispatcher: webrick
+[01/23/14 16:31:28 +0000 Toms-MacBook-Air.local (26463)] INFO : Application: development
+[01/23/14 16:31:28 +0000 Toms-MacBook-Air.local (26463)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'development'
+[01/23/14 16:31:28 +0000 Toms-MacBook-Air.local (26463)] INFO : Installing Net instrumentation
+[01/23/14 16:31:28 +0000 Toms-MacBook-Air.local (26463)] INFO : Installing Sinatra instrumentation
+[01/23/14 16:31:28 +0000 Toms-MacBook-Air.local (26463)] INFO : Installing deferred Rack instrumentation
+[01/23/14 16:31:28 +0000 Toms-MacBook-Air.local (26463)] INFO : Finished instrumentation
+[01/23/14 16:31:28 +0000 Toms-MacBook-Air.local (26463)] INFO : Doing deferred dependency-detection before Rack startup
+[01/23/14 16:32:58 +0000 Toms-MacBook-Air.local (26468)] INFO : Starting the New Relic agent in "development" environment.
+[01/23/14 16:32:58 +0000 Toms-MacBook-Air.local (26468)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[01/23/14 16:32:58 +0000 Toms-MacBook-Air.local (26468)] INFO : Reading configuration from 
+[01/23/14 16:32:58 +0000 Toms-MacBook-Air.local (26468)] ERROR : Unable to read configuration file : Is a directory - /Users/tomleman/dev/redress
+[01/23/14 16:32:58 +0000 Toms-MacBook-Air.local (26468)] INFO : Enabling the Request Sampler.
+[01/23/14 16:32:58 +0000 Toms-MacBook-Air.local (26468)] INFO : Environment: development
+[01/23/14 16:32:58 +0000 Toms-MacBook-Air.local (26468)] INFO : Dispatcher: webrick
+[01/23/14 16:32:58 +0000 Toms-MacBook-Air.local (26468)] INFO : Application: development
+[01/23/14 16:32:58 +0000 Toms-MacBook-Air.local (26468)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'development'
+[01/23/14 16:32:58 +0000 Toms-MacBook-Air.local (26468)] INFO : Installing Net instrumentation
+[01/23/14 16:32:58 +0000 Toms-MacBook-Air.local (26468)] INFO : Installing Sinatra instrumentation
+[01/23/14 16:32:58 +0000 Toms-MacBook-Air.local (26468)] INFO : Installing deferred Rack instrumentation
+[01/23/14 16:32:58 +0000 Toms-MacBook-Air.local (26468)] INFO : Finished instrumentation
+[01/23/14 16:32:58 +0000 Toms-MacBook-Air.local (26468)] INFO : Doing deferred dependency-detection before Rack startup
+[01/23/14 16:36:45 +0000 Toms-MacBook-Air.local (26482)] INFO : Starting the New Relic agent in "development" environment.
+[01/23/14 16:36:45 +0000 Toms-MacBook-Air.local (26482)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[01/23/14 16:36:45 +0000 Toms-MacBook-Air.local (26482)] INFO : Reading configuration from 
+[01/23/14 16:36:45 +0000 Toms-MacBook-Air.local (26482)] ERROR : Unable to read configuration file : Is a directory - /Users/tomleman/dev/redress
+[01/23/14 16:36:45 +0000 Toms-MacBook-Air.local (26482)] INFO : Enabling the Request Sampler.
+[01/23/14 16:36:45 +0000 Toms-MacBook-Air.local (26482)] INFO : Environment: development
+[01/23/14 16:36:45 +0000 Toms-MacBook-Air.local (26482)] INFO : Dispatcher: webrick
+[01/23/14 16:36:45 +0000 Toms-MacBook-Air.local (26482)] INFO : Application: development
+[01/23/14 16:36:45 +0000 Toms-MacBook-Air.local (26482)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'development'
+[01/23/14 16:36:45 +0000 Toms-MacBook-Air.local (26482)] INFO : Installing Net instrumentation
+[01/23/14 16:36:45 +0000 Toms-MacBook-Air.local (26482)] INFO : Installing Sinatra instrumentation
+[01/23/14 16:36:45 +0000 Toms-MacBook-Air.local (26482)] INFO : Installing deferred Rack instrumentation
+[01/23/14 16:36:45 +0000 Toms-MacBook-Air.local (26482)] INFO : Finished instrumentation
+[01/23/14 16:36:45 +0000 Toms-MacBook-Air.local (26482)] INFO : Doing deferred dependency-detection before Rack startup
+[01/23/14 16:37:20 +0000 Toms-MacBook-Air.local (26496)] INFO : Starting the New Relic agent in "development" environment.
+[01/23/14 16:37:20 +0000 Toms-MacBook-Air.local (26496)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[01/23/14 16:37:20 +0000 Toms-MacBook-Air.local (26496)] INFO : Reading configuration from 
+[01/23/14 16:37:20 +0000 Toms-MacBook-Air.local (26496)] ERROR : Unable to read configuration file : Is a directory - /Users/tomleman/dev/redress
+[01/23/14 16:37:20 +0000 Toms-MacBook-Air.local (26496)] INFO : Enabling the Request Sampler.
+[01/23/14 16:37:20 +0000 Toms-MacBook-Air.local (26496)] INFO : Environment: development
+[01/23/14 16:37:20 +0000 Toms-MacBook-Air.local (26496)] INFO : Dispatcher: webrick
+[01/23/14 16:37:20 +0000 Toms-MacBook-Air.local (26496)] INFO : Application: development
+[01/23/14 16:37:20 +0000 Toms-MacBook-Air.local (26496)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'development'
+[01/23/14 16:37:20 +0000 Toms-MacBook-Air.local (26496)] INFO : Installing Net instrumentation
+[01/23/14 16:37:20 +0000 Toms-MacBook-Air.local (26496)] INFO : Installing Sinatra instrumentation
+[01/23/14 16:37:20 +0000 Toms-MacBook-Air.local (26496)] INFO : Installing deferred Rack instrumentation
+[01/23/14 16:37:20 +0000 Toms-MacBook-Air.local (26496)] INFO : Finished instrumentation
+[01/23/14 16:37:20 +0000 Toms-MacBook-Air.local (26496)] INFO : Doing deferred dependency-detection before Rack startup
+[01/23/14 16:37:35 +0000 Toms-MacBook-Air.local (26500)] INFO : Starting the New Relic agent in "development" environment.
+[01/23/14 16:37:35 +0000 Toms-MacBook-Air.local (26500)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[01/23/14 16:37:35 +0000 Toms-MacBook-Air.local (26500)] INFO : Reading configuration from 
+[01/23/14 16:37:35 +0000 Toms-MacBook-Air.local (26500)] ERROR : Unable to read configuration file : Is a directory - /Users/tomleman/dev/redress
+[01/23/14 16:37:35 +0000 Toms-MacBook-Air.local (26500)] INFO : Enabling the Request Sampler.
+[01/23/14 16:37:35 +0000 Toms-MacBook-Air.local (26500)] INFO : Environment: development
+[01/23/14 16:37:35 +0000 Toms-MacBook-Air.local (26500)] INFO : Dispatcher: webrick
+[01/23/14 16:37:35 +0000 Toms-MacBook-Air.local (26500)] INFO : Application: development
+[01/23/14 16:37:35 +0000 Toms-MacBook-Air.local (26500)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'development'
+[01/23/14 16:37:35 +0000 Toms-MacBook-Air.local (26500)] INFO : Installing Net instrumentation
+[01/23/14 16:37:35 +0000 Toms-MacBook-Air.local (26500)] INFO : Installing Sinatra instrumentation
+[01/23/14 16:37:35 +0000 Toms-MacBook-Air.local (26500)] INFO : Installing deferred Rack instrumentation
+[01/23/14 16:37:35 +0000 Toms-MacBook-Air.local (26500)] INFO : Finished instrumentation
+[01/23/14 16:37:35 +0000 Toms-MacBook-Air.local (26500)] INFO : Doing deferred dependency-detection before Rack startup
+[01/23/14 16:39:43 +0000 Toms-MacBook-Air.local (26935)] INFO : Starting the New Relic agent in "development" environment.
+[01/23/14 16:39:43 +0000 Toms-MacBook-Air.local (26935)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[01/23/14 16:39:43 +0000 Toms-MacBook-Air.local (26935)] INFO : Reading configuration from 
+[01/23/14 16:39:43 +0000 Toms-MacBook-Air.local (26935)] ERROR : Unable to read configuration file : Is a directory - /Users/tomleman/dev/redress
+[01/23/14 16:39:43 +0000 Toms-MacBook-Air.local (26935)] INFO : Enabling the Request Sampler.
+[01/23/14 16:39:43 +0000 Toms-MacBook-Air.local (26935)] INFO : Environment: development
+[01/23/14 16:39:43 +0000 Toms-MacBook-Air.local (26935)] INFO : Dispatcher: webrick
+[01/23/14 16:39:43 +0000 Toms-MacBook-Air.local (26935)] INFO : Application: development
+[01/23/14 16:39:43 +0000 Toms-MacBook-Air.local (26935)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'development'
+[01/23/14 16:39:43 +0000 Toms-MacBook-Air.local (26935)] INFO : Installing Net instrumentation
+[01/23/14 16:39:43 +0000 Toms-MacBook-Air.local (26935)] INFO : Installing Sinatra instrumentation
+[01/23/14 16:39:43 +0000 Toms-MacBook-Air.local (26935)] INFO : Installing deferred Rack instrumentation
+[01/23/14 16:39:43 +0000 Toms-MacBook-Air.local (26935)] INFO : Finished instrumentation
+[01/23/14 16:39:43 +0000 Toms-MacBook-Air.local (26935)] INFO : Doing deferred dependency-detection before Rack startup
+[01/23/14 16:39:57 +0000 Toms-MacBook-Air.local (26940)] INFO : Starting the New Relic agent in "development" environment.
+[01/23/14 16:39:57 +0000 Toms-MacBook-Air.local (26940)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[01/23/14 16:39:57 +0000 Toms-MacBook-Air.local (26940)] INFO : Reading configuration from 
+[01/23/14 16:39:57 +0000 Toms-MacBook-Air.local (26940)] ERROR : Unable to read configuration file : Is a directory - /Users/tomleman/dev/redress
+[01/23/14 16:39:57 +0000 Toms-MacBook-Air.local (26940)] INFO : Enabling the Request Sampler.
+[01/23/14 16:39:57 +0000 Toms-MacBook-Air.local (26940)] INFO : Environment: development
+[01/23/14 16:39:57 +0000 Toms-MacBook-Air.local (26940)] INFO : Dispatcher: webrick
+[01/23/14 16:39:57 +0000 Toms-MacBook-Air.local (26940)] INFO : Application: development
+[01/23/14 16:39:57 +0000 Toms-MacBook-Air.local (26940)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'development'
+[01/23/14 16:39:57 +0000 Toms-MacBook-Air.local (26940)] INFO : Installing Net instrumentation
+[01/23/14 16:39:57 +0000 Toms-MacBook-Air.local (26940)] INFO : Installing Sinatra instrumentation
+[01/23/14 16:39:58 +0000 Toms-MacBook-Air.local (26940)] INFO : Installing deferred Rack instrumentation
+[01/23/14 16:39:58 +0000 Toms-MacBook-Air.local (26940)] INFO : Finished instrumentation
+[01/23/14 16:39:58 +0000 Toms-MacBook-Air.local (26940)] INFO : Doing deferred dependency-detection before Rack startup
+[01/23/14 16:43:55 +0000 Toms-MacBook-Air.local (26992)] INFO : Starting the New Relic agent in "development" environment.
+[01/23/14 16:43:55 +0000 Toms-MacBook-Air.local (26992)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[01/23/14 16:43:55 +0000 Toms-MacBook-Air.local (26992)] INFO : Reading configuration from 
+[01/23/14 16:43:55 +0000 Toms-MacBook-Air.local (26992)] ERROR : Unable to read configuration file : Is a directory - /Users/tomleman/dev/redress
+[01/23/14 16:43:55 +0000 Toms-MacBook-Air.local (26992)] INFO : Enabling the Request Sampler.
+[01/23/14 16:43:55 +0000 Toms-MacBook-Air.local (26992)] INFO : Environment: development
+[01/23/14 16:43:55 +0000 Toms-MacBook-Air.local (26992)] INFO : Dispatcher: webrick
+[01/23/14 16:43:55 +0000 Toms-MacBook-Air.local (26992)] INFO : Application: development
+[01/23/14 16:43:55 +0000 Toms-MacBook-Air.local (26992)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'development'
+[01/23/14 16:43:55 +0000 Toms-MacBook-Air.local (26992)] INFO : Installing Net instrumentation
+[01/23/14 16:43:55 +0000 Toms-MacBook-Air.local (26992)] INFO : Installing Sinatra instrumentation
+[01/23/14 16:43:55 +0000 Toms-MacBook-Air.local (26992)] INFO : Installing deferred Rack instrumentation
+[01/23/14 16:43:55 +0000 Toms-MacBook-Air.local (26992)] INFO : Finished instrumentation
+[01/23/14 16:43:55 +0000 Toms-MacBook-Air.local (26992)] INFO : Doing deferred dependency-detection before Rack startup
+[01/23/14 16:44:16 +0000 Toms-MacBook-Air.local (26998)] INFO : Starting the New Relic agent in "development" environment.
+[01/23/14 16:44:16 +0000 Toms-MacBook-Air.local (26998)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[01/23/14 16:44:16 +0000 Toms-MacBook-Air.local (26998)] INFO : Reading configuration from 
+[01/23/14 16:44:16 +0000 Toms-MacBook-Air.local (26998)] ERROR : Unable to read configuration file : Is a directory - /Users/tomleman/dev/redress
+[01/23/14 16:44:16 +0000 Toms-MacBook-Air.local (26998)] INFO : Enabling the Request Sampler.
+[01/23/14 16:44:16 +0000 Toms-MacBook-Air.local (26998)] INFO : Environment: development
+[01/23/14 16:44:16 +0000 Toms-MacBook-Air.local (26998)] INFO : Dispatcher: webrick
+[01/23/14 16:44:16 +0000 Toms-MacBook-Air.local (26998)] INFO : Application: development
+[01/23/14 16:44:16 +0000 Toms-MacBook-Air.local (26998)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'development'
+[01/23/14 16:44:16 +0000 Toms-MacBook-Air.local (26998)] INFO : Installing Net instrumentation
+[01/23/14 16:44:16 +0000 Toms-MacBook-Air.local (26998)] INFO : Installing Sinatra instrumentation
+[01/23/14 16:44:16 +0000 Toms-MacBook-Air.local (26998)] INFO : Installing deferred Rack instrumentation
+[01/23/14 16:44:16 +0000 Toms-MacBook-Air.local (26998)] INFO : Finished instrumentation
+[01/23/14 16:44:16 +0000 Toms-MacBook-Air.local (26998)] INFO : Doing deferred dependency-detection before Rack startup
+[01/23/14 16:44:49 +0000 Toms-MacBook-Air.local (27017)] INFO : Starting the New Relic agent in "development" environment.
+[01/23/14 16:44:49 +0000 Toms-MacBook-Air.local (27017)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[01/23/14 16:44:49 +0000 Toms-MacBook-Air.local (27017)] INFO : Reading configuration from 
+[01/23/14 16:44:49 +0000 Toms-MacBook-Air.local (27017)] ERROR : Unable to read configuration file : Is a directory - /Users/tomleman/dev/redress
+[01/23/14 16:44:49 +0000 Toms-MacBook-Air.local (27017)] INFO : Enabling the Request Sampler.
+[01/23/14 16:44:49 +0000 Toms-MacBook-Air.local (27017)] INFO : Environment: development
+[01/23/14 16:44:49 +0000 Toms-MacBook-Air.local (27017)] INFO : Dispatcher: webrick
+[01/23/14 16:44:49 +0000 Toms-MacBook-Air.local (27017)] INFO : Application: development
+[01/23/14 16:44:49 +0000 Toms-MacBook-Air.local (27017)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'development'
+[01/23/14 16:44:49 +0000 Toms-MacBook-Air.local (27017)] INFO : Installing Net instrumentation
+[01/23/14 16:44:49 +0000 Toms-MacBook-Air.local (27017)] INFO : Installing Sinatra instrumentation
+[01/23/14 16:44:49 +0000 Toms-MacBook-Air.local (27017)] INFO : Installing deferred Rack instrumentation
+[01/23/14 16:44:49 +0000 Toms-MacBook-Air.local (27017)] INFO : Finished instrumentation
+[01/23/14 16:44:49 +0000 Toms-MacBook-Air.local (27017)] INFO : Doing deferred dependency-detection before Rack startup
+[01/23/14 16:46:33 +0000 Toms-MacBook-Air.local (27034)] INFO : Starting the New Relic agent in "development" environment.
+[01/23/14 16:46:33 +0000 Toms-MacBook-Air.local (27034)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[01/23/14 16:46:33 +0000 Toms-MacBook-Air.local (27034)] INFO : Reading configuration from 
+[01/23/14 16:46:33 +0000 Toms-MacBook-Air.local (27034)] ERROR : Unable to read configuration file : Is a directory - /Users/tomleman/dev/redress
+[01/23/14 16:46:33 +0000 Toms-MacBook-Air.local (27034)] INFO : Enabling the Request Sampler.
+[01/23/14 16:46:33 +0000 Toms-MacBook-Air.local (27034)] INFO : Environment: development
+[01/23/14 16:46:33 +0000 Toms-MacBook-Air.local (27034)] INFO : Dispatcher: webrick
+[01/23/14 16:46:33 +0000 Toms-MacBook-Air.local (27034)] INFO : Application: development
+[01/23/14 16:46:33 +0000 Toms-MacBook-Air.local (27034)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'development'
+[01/23/14 16:46:33 +0000 Toms-MacBook-Air.local (27034)] INFO : Installing Net instrumentation
+[01/23/14 16:46:33 +0000 Toms-MacBook-Air.local (27034)] INFO : Installing Sinatra instrumentation
+[01/23/14 16:46:33 +0000 Toms-MacBook-Air.local (27034)] INFO : Installing deferred Rack instrumentation
+[01/23/14 16:46:33 +0000 Toms-MacBook-Air.local (27034)] INFO : Finished instrumentation
+[01/23/14 16:46:33 +0000 Toms-MacBook-Air.local (27034)] INFO : Doing deferred dependency-detection before Rack startup
+[01/23/14 16:47:00 +0000 Toms-MacBook-Air.local (27058)] INFO : Starting the New Relic agent in "development" environment.
+[01/23/14 16:47:00 +0000 Toms-MacBook-Air.local (27058)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[01/23/14 16:47:00 +0000 Toms-MacBook-Air.local (27058)] INFO : Reading configuration from 
+[01/23/14 16:47:00 +0000 Toms-MacBook-Air.local (27058)] ERROR : Unable to read configuration file : Is a directory - /Users/tomleman/dev/redress
+[01/23/14 16:47:00 +0000 Toms-MacBook-Air.local (27058)] INFO : Enabling the Request Sampler.
+[01/23/14 16:47:00 +0000 Toms-MacBook-Air.local (27058)] INFO : Environment: development
+[01/23/14 16:47:00 +0000 Toms-MacBook-Air.local (27058)] INFO : Dispatcher: webrick
+[01/23/14 16:47:00 +0000 Toms-MacBook-Air.local (27058)] INFO : Application: development
+[01/23/14 16:47:00 +0000 Toms-MacBook-Air.local (27058)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'development'
+[01/23/14 16:47:00 +0000 Toms-MacBook-Air.local (27058)] INFO : Installing Net instrumentation
+[01/23/14 16:47:00 +0000 Toms-MacBook-Air.local (27058)] INFO : Installing Sinatra instrumentation
+[01/23/14 16:47:00 +0000 Toms-MacBook-Air.local (27058)] INFO : Installing deferred Rack instrumentation
+[01/23/14 16:47:00 +0000 Toms-MacBook-Air.local (27058)] INFO : Finished instrumentation
+[01/23/14 16:47:00 +0000 Toms-MacBook-Air.local (27058)] INFO : Doing deferred dependency-detection before Rack startup
+[01/23/14 16:47:07 +0000 Toms-MacBook-Air.local (27063)] INFO : Starting the New Relic agent in "development" environment.
+[01/23/14 16:47:07 +0000 Toms-MacBook-Air.local (27063)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[01/23/14 16:47:07 +0000 Toms-MacBook-Air.local (27063)] INFO : Reading configuration from 
+[01/23/14 16:47:07 +0000 Toms-MacBook-Air.local (27063)] ERROR : Unable to read configuration file : Is a directory - /Users/tomleman/dev/redress
+[01/23/14 16:47:07 +0000 Toms-MacBook-Air.local (27063)] INFO : Enabling the Request Sampler.
+[01/23/14 16:47:07 +0000 Toms-MacBook-Air.local (27063)] INFO : Environment: development
+[01/23/14 16:47:07 +0000 Toms-MacBook-Air.local (27063)] INFO : Dispatcher: webrick
+[01/23/14 16:47:07 +0000 Toms-MacBook-Air.local (27063)] INFO : Application: development
+[01/23/14 16:47:07 +0000 Toms-MacBook-Air.local (27063)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'development'
+[01/23/14 16:47:08 +0000 Toms-MacBook-Air.local (27063)] INFO : Installing Net instrumentation
+[01/23/14 16:47:08 +0000 Toms-MacBook-Air.local (27063)] INFO : Installing Sinatra instrumentation
+[01/23/14 16:47:08 +0000 Toms-MacBook-Air.local (27063)] INFO : Installing deferred Rack instrumentation
+[01/23/14 16:47:08 +0000 Toms-MacBook-Air.local (27063)] INFO : Finished instrumentation
+[01/23/14 16:47:08 +0000 Toms-MacBook-Air.local (27063)] INFO : Doing deferred dependency-detection before Rack startup
+[01/23/14 16:47:30 +0000 Toms-MacBook-Air.local (27068)] INFO : Starting the New Relic agent in "development" environment.
+[01/23/14 16:47:30 +0000 Toms-MacBook-Air.local (27068)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[01/23/14 16:47:30 +0000 Toms-MacBook-Air.local (27068)] INFO : Reading configuration from 
+[01/23/14 16:47:30 +0000 Toms-MacBook-Air.local (27068)] ERROR : Unable to read configuration file : Is a directory - /Users/tomleman/dev/redress
+[01/23/14 16:47:30 +0000 Toms-MacBook-Air.local (27068)] INFO : Enabling the Request Sampler.
+[01/23/14 16:47:30 +0000 Toms-MacBook-Air.local (27068)] INFO : Environment: development
+[01/23/14 16:47:30 +0000 Toms-MacBook-Air.local (27068)] INFO : Dispatcher: webrick
+[01/23/14 16:47:30 +0000 Toms-MacBook-Air.local (27068)] INFO : Application: development
+[01/23/14 16:47:30 +0000 Toms-MacBook-Air.local (27068)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'development'
+[01/23/14 16:47:30 +0000 Toms-MacBook-Air.local (27068)] INFO : Installing Net instrumentation
+[01/23/14 16:47:30 +0000 Toms-MacBook-Air.local (27068)] INFO : Installing Sinatra instrumentation
+[01/23/14 16:47:30 +0000 Toms-MacBook-Air.local (27068)] INFO : Installing deferred Rack instrumentation
+[01/23/14 16:47:30 +0000 Toms-MacBook-Air.local (27068)] INFO : Finished instrumentation
+[01/23/14 16:47:30 +0000 Toms-MacBook-Air.local (27068)] INFO : Doing deferred dependency-detection before Rack startup
+[01/23/14 16:47:42 +0000 Toms-MacBook-Air.local (27074)] INFO : Starting the New Relic agent in "development" environment.
+[01/23/14 16:47:42 +0000 Toms-MacBook-Air.local (27074)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[01/23/14 16:47:42 +0000 Toms-MacBook-Air.local (27074)] INFO : Reading configuration from 
+[01/23/14 16:47:42 +0000 Toms-MacBook-Air.local (27074)] ERROR : Unable to read configuration file : Is a directory - /Users/tomleman/dev/redress
+[01/23/14 16:47:42 +0000 Toms-MacBook-Air.local (27074)] INFO : Enabling the Request Sampler.
+[01/23/14 16:47:42 +0000 Toms-MacBook-Air.local (27074)] INFO : Environment: development
+[01/23/14 16:47:42 +0000 Toms-MacBook-Air.local (27074)] INFO : Dispatcher: webrick
+[01/23/14 16:47:42 +0000 Toms-MacBook-Air.local (27074)] INFO : Application: development
+[01/23/14 16:47:42 +0000 Toms-MacBook-Air.local (27074)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'development'
+[01/23/14 16:47:42 +0000 Toms-MacBook-Air.local (27074)] INFO : Installing Net instrumentation
+[01/23/14 16:47:42 +0000 Toms-MacBook-Air.local (27074)] INFO : Installing Sinatra instrumentation
+[01/23/14 16:47:42 +0000 Toms-MacBook-Air.local (27074)] INFO : Installing deferred Rack instrumentation
+[01/23/14 16:47:42 +0000 Toms-MacBook-Air.local (27074)] INFO : Finished instrumentation
+[01/23/14 16:47:42 +0000 Toms-MacBook-Air.local (27074)] INFO : Doing deferred dependency-detection before Rack startup
+[01/23/14 16:48:11 +0000 Toms-MacBook-Air.local (27100)] INFO : Starting the New Relic agent in "development" environment.
+[01/23/14 16:48:11 +0000 Toms-MacBook-Air.local (27100)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[01/23/14 16:48:11 +0000 Toms-MacBook-Air.local (27100)] INFO : Reading configuration from 
+[01/23/14 16:48:11 +0000 Toms-MacBook-Air.local (27100)] ERROR : Unable to read configuration file : Is a directory - /Users/tomleman/dev/redress
+[01/23/14 16:48:11 +0000 Toms-MacBook-Air.local (27100)] INFO : Enabling the Request Sampler.
+[01/23/14 16:48:11 +0000 Toms-MacBook-Air.local (27100)] INFO : Environment: development
+[01/23/14 16:48:11 +0000 Toms-MacBook-Air.local (27100)] INFO : Dispatcher: webrick
+[01/23/14 16:48:11 +0000 Toms-MacBook-Air.local (27100)] INFO : Application: development
+[01/23/14 16:48:11 +0000 Toms-MacBook-Air.local (27100)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'development'
+[01/23/14 16:48:11 +0000 Toms-MacBook-Air.local (27100)] INFO : Installing Net instrumentation
+[01/23/14 16:48:11 +0000 Toms-MacBook-Air.local (27100)] INFO : Installing Sinatra instrumentation
+[01/23/14 16:48:11 +0000 Toms-MacBook-Air.local (27100)] INFO : Installing deferred Rack instrumentation
+[01/23/14 16:48:11 +0000 Toms-MacBook-Air.local (27100)] INFO : Finished instrumentation
+[01/23/14 16:48:11 +0000 Toms-MacBook-Air.local (27100)] INFO : Doing deferred dependency-detection before Rack startup
+[01/23/14 16:48:37 +0000 Toms-MacBook-Air.local (27106)] INFO : Starting the New Relic agent in "development" environment.
+[01/23/14 16:48:37 +0000 Toms-MacBook-Air.local (27106)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[01/23/14 16:48:37 +0000 Toms-MacBook-Air.local (27106)] INFO : Reading configuration from 
+[01/23/14 16:48:37 +0000 Toms-MacBook-Air.local (27106)] ERROR : Unable to read configuration file : Is a directory - /Users/tomleman/dev/redress
+[01/23/14 16:48:37 +0000 Toms-MacBook-Air.local (27106)] INFO : Enabling the Request Sampler.
+[01/23/14 16:48:37 +0000 Toms-MacBook-Air.local (27106)] INFO : Environment: development
+[01/23/14 16:48:37 +0000 Toms-MacBook-Air.local (27106)] INFO : Dispatcher: webrick
+[01/23/14 16:48:37 +0000 Toms-MacBook-Air.local (27106)] INFO : Application: development
+[01/23/14 16:48:37 +0000 Toms-MacBook-Air.local (27106)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'development'
+[01/23/14 16:48:37 +0000 Toms-MacBook-Air.local (27106)] INFO : Installing Net instrumentation
+[01/23/14 16:48:37 +0000 Toms-MacBook-Air.local (27106)] INFO : Installing Sinatra instrumentation
+[01/23/14 16:48:37 +0000 Toms-MacBook-Air.local (27106)] INFO : Installing deferred Rack instrumentation
+[01/23/14 16:48:37 +0000 Toms-MacBook-Air.local (27106)] INFO : Finished instrumentation
+[01/23/14 16:48:37 +0000 Toms-MacBook-Air.local (27106)] INFO : Doing deferred dependency-detection before Rack startup
+[01/23/14 16:48:51 +0000 Toms-MacBook-Air.local (27112)] INFO : Starting the New Relic agent in "development" environment.
+[01/23/14 16:48:51 +0000 Toms-MacBook-Air.local (27112)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[01/23/14 16:48:51 +0000 Toms-MacBook-Air.local (27112)] INFO : Reading configuration from 
+[01/23/14 16:48:51 +0000 Toms-MacBook-Air.local (27112)] ERROR : Unable to read configuration file : Is a directory - /Users/tomleman/dev/redress
+[01/23/14 16:48:51 +0000 Toms-MacBook-Air.local (27112)] INFO : Enabling the Request Sampler.
+[01/23/14 16:48:51 +0000 Toms-MacBook-Air.local (27112)] INFO : Environment: development
+[01/23/14 16:48:51 +0000 Toms-MacBook-Air.local (27112)] INFO : Dispatcher: webrick
+[01/23/14 16:48:51 +0000 Toms-MacBook-Air.local (27112)] INFO : Application: development
+[01/23/14 16:48:51 +0000 Toms-MacBook-Air.local (27112)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'development'
+[01/23/14 16:48:51 +0000 Toms-MacBook-Air.local (27112)] INFO : Installing Net instrumentation
+[01/23/14 16:48:51 +0000 Toms-MacBook-Air.local (27112)] INFO : Installing Sinatra instrumentation
+[01/23/14 16:48:51 +0000 Toms-MacBook-Air.local (27112)] INFO : Installing deferred Rack instrumentation
+[01/23/14 16:48:51 +0000 Toms-MacBook-Air.local (27112)] INFO : Finished instrumentation
+[01/23/14 16:48:51 +0000 Toms-MacBook-Air.local (27112)] INFO : Doing deferred dependency-detection before Rack startup
+[01/23/14 16:49:03 +0000 Toms-MacBook-Air.local (27116)] INFO : Starting the New Relic agent in "development" environment.
+[01/23/14 16:49:03 +0000 Toms-MacBook-Air.local (27116)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[01/23/14 16:49:03 +0000 Toms-MacBook-Air.local (27116)] INFO : Reading configuration from 
+[01/23/14 16:49:03 +0000 Toms-MacBook-Air.local (27116)] ERROR : Unable to read configuration file : Is a directory - /Users/tomleman/dev/redress
+[01/23/14 16:49:03 +0000 Toms-MacBook-Air.local (27116)] INFO : Enabling the Request Sampler.
+[01/23/14 16:49:03 +0000 Toms-MacBook-Air.local (27116)] INFO : Environment: development
+[01/23/14 16:49:03 +0000 Toms-MacBook-Air.local (27116)] INFO : Dispatcher: webrick
+[01/23/14 16:49:03 +0000 Toms-MacBook-Air.local (27116)] INFO : Application: development
+[01/23/14 16:49:03 +0000 Toms-MacBook-Air.local (27116)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'development'
+[01/23/14 16:49:03 +0000 Toms-MacBook-Air.local (27116)] INFO : Installing Net instrumentation
+[01/23/14 16:49:03 +0000 Toms-MacBook-Air.local (27116)] INFO : Installing Sinatra instrumentation
+[01/23/14 16:49:03 +0000 Toms-MacBook-Air.local (27116)] INFO : Installing deferred Rack instrumentation
+[01/23/14 16:49:03 +0000 Toms-MacBook-Air.local (27116)] INFO : Finished instrumentation
+[01/23/14 16:49:03 +0000 Toms-MacBook-Air.local (27116)] INFO : Doing deferred dependency-detection before Rack startup
+[01/23/14 16:49:05 +0000 Toms-MacBook-Air.local (27119)] INFO : Starting the New Relic agent in "development" environment.
+[01/23/14 16:49:05 +0000 Toms-MacBook-Air.local (27119)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[01/23/14 16:49:05 +0000 Toms-MacBook-Air.local (27119)] INFO : Reading configuration from 
+[01/23/14 16:49:05 +0000 Toms-MacBook-Air.local (27119)] ERROR : Unable to read configuration file : Is a directory - /Users/tomleman/dev/redress
+[01/23/14 16:49:05 +0000 Toms-MacBook-Air.local (27119)] INFO : Enabling the Request Sampler.
+[01/23/14 16:49:05 +0000 Toms-MacBook-Air.local (27119)] INFO : Environment: development
+[01/23/14 16:49:05 +0000 Toms-MacBook-Air.local (27119)] INFO : Dispatcher: webrick
+[01/23/14 16:49:05 +0000 Toms-MacBook-Air.local (27119)] INFO : Application: development
+[01/23/14 16:49:05 +0000 Toms-MacBook-Air.local (27119)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'development'
+[01/23/14 16:49:05 +0000 Toms-MacBook-Air.local (27119)] INFO : Installing Net instrumentation
+[01/23/14 16:49:05 +0000 Toms-MacBook-Air.local (27119)] INFO : Installing Sinatra instrumentation
+[01/23/14 16:49:05 +0000 Toms-MacBook-Air.local (27119)] INFO : Installing deferred Rack instrumentation
+[01/23/14 16:49:05 +0000 Toms-MacBook-Air.local (27119)] INFO : Finished instrumentation
+[01/23/14 16:49:05 +0000 Toms-MacBook-Air.local (27119)] INFO : Doing deferred dependency-detection before Rack startup
+[01/23/14 16:49:49 +0000 Toms-MacBook-Air.local (27128)] INFO : Starting the New Relic agent in "development" environment.
+[01/23/14 16:49:49 +0000 Toms-MacBook-Air.local (27128)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[01/23/14 16:49:49 +0000 Toms-MacBook-Air.local (27128)] INFO : Reading configuration from 
+[01/23/14 16:49:49 +0000 Toms-MacBook-Air.local (27128)] ERROR : Unable to read configuration file : Is a directory - /Users/tomleman/dev/redress
+[01/23/14 16:49:49 +0000 Toms-MacBook-Air.local (27128)] INFO : Enabling the Request Sampler.
+[01/23/14 16:49:49 +0000 Toms-MacBook-Air.local (27128)] INFO : Environment: development
+[01/23/14 16:49:49 +0000 Toms-MacBook-Air.local (27128)] INFO : Dispatcher: webrick
+[01/23/14 16:49:49 +0000 Toms-MacBook-Air.local (27128)] INFO : Application: development
+[01/23/14 16:49:49 +0000 Toms-MacBook-Air.local (27128)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'development'
+[01/23/14 16:49:49 +0000 Toms-MacBook-Air.local (27128)] INFO : Installing Net instrumentation
+[01/23/14 16:49:49 +0000 Toms-MacBook-Air.local (27128)] INFO : Installing Sinatra instrumentation
+[01/23/14 16:49:49 +0000 Toms-MacBook-Air.local (27128)] INFO : Installing deferred Rack instrumentation
+[01/23/14 16:49:49 +0000 Toms-MacBook-Air.local (27128)] INFO : Finished instrumentation
+[01/23/14 16:49:49 +0000 Toms-MacBook-Air.local (27128)] INFO : Doing deferred dependency-detection before Rack startup
+[01/23/14 16:49:56 +0000 Toms-MacBook-Air.local (27132)] INFO : Starting the New Relic agent in "development" environment.
+[01/23/14 16:49:56 +0000 Toms-MacBook-Air.local (27132)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[01/23/14 16:49:56 +0000 Toms-MacBook-Air.local (27132)] INFO : Reading configuration from 
+[01/23/14 16:49:56 +0000 Toms-MacBook-Air.local (27132)] ERROR : Unable to read configuration file : Is a directory - /Users/tomleman/dev/redress
+[01/23/14 16:49:56 +0000 Toms-MacBook-Air.local (27132)] INFO : Enabling the Request Sampler.
+[01/23/14 16:49:56 +0000 Toms-MacBook-Air.local (27132)] INFO : Environment: development
+[01/23/14 16:49:56 +0000 Toms-MacBook-Air.local (27132)] INFO : Dispatcher: webrick
+[01/23/14 16:49:56 +0000 Toms-MacBook-Air.local (27132)] INFO : Application: development
+[01/23/14 16:49:56 +0000 Toms-MacBook-Air.local (27132)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'development'
+[01/23/14 16:49:56 +0000 Toms-MacBook-Air.local (27132)] INFO : Installing Net instrumentation
+[01/23/14 16:49:56 +0000 Toms-MacBook-Air.local (27132)] INFO : Installing Sinatra instrumentation
+[01/23/14 16:49:56 +0000 Toms-MacBook-Air.local (27132)] INFO : Installing deferred Rack instrumentation
+[01/23/14 16:49:56 +0000 Toms-MacBook-Air.local (27132)] INFO : Finished instrumentation
+[01/23/14 16:49:56 +0000 Toms-MacBook-Air.local (27132)] INFO : Doing deferred dependency-detection before Rack startup
+[01/23/14 18:01:17 +0000 Toms-MacBook-Air.local (27262)] INFO : Starting the New Relic agent in "development" environment.
+[01/23/14 18:01:17 +0000 Toms-MacBook-Air.local (27262)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[01/23/14 18:01:17 +0000 Toms-MacBook-Air.local (27262)] INFO : Reading configuration from 
+[01/23/14 18:01:17 +0000 Toms-MacBook-Air.local (27262)] ERROR : Unable to read configuration file : Is a directory - /Users/tomleman/dev/redress
+[01/23/14 18:01:17 +0000 Toms-MacBook-Air.local (27262)] INFO : Enabling the Request Sampler.
+[01/23/14 18:01:17 +0000 Toms-MacBook-Air.local (27262)] INFO : Environment: development
+[01/23/14 18:01:17 +0000 Toms-MacBook-Air.local (27262)] INFO : Dispatcher: webrick
+[01/23/14 18:01:17 +0000 Toms-MacBook-Air.local (27262)] INFO : Application: development
+[01/23/14 18:01:17 +0000 Toms-MacBook-Air.local (27262)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'development'
+[01/23/14 18:01:17 +0000 Toms-MacBook-Air.local (27262)] INFO : Installing Net instrumentation
+[01/23/14 18:01:17 +0000 Toms-MacBook-Air.local (27262)] INFO : Installing Sinatra instrumentation
+[01/23/14 18:01:17 +0000 Toms-MacBook-Air.local (27262)] INFO : Installing deferred Rack instrumentation
+[01/23/14 18:01:17 +0000 Toms-MacBook-Air.local (27262)] INFO : Finished instrumentation
+[01/23/14 18:01:17 +0000 Toms-MacBook-Air.local (27262)] INFO : Doing deferred dependency-detection before Rack startup
+[01/28/14 14:45:19 +0000 Toms-MacBook-Air.local (5211)] INFO : Starting the New Relic agent in "development" environment.
+[01/28/14 14:45:19 +0000 Toms-MacBook-Air.local (5211)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[01/28/14 14:45:19 +0000 Toms-MacBook-Air.local (5211)] INFO : Reading configuration from 
+[01/28/14 14:45:19 +0000 Toms-MacBook-Air.local (5211)] ERROR : Unable to read configuration file : Is a directory - /Users/tomleman/dev/redress
+[01/28/14 14:45:19 +0000 Toms-MacBook-Air.local (5211)] INFO : Enabling the Request Sampler.
+[01/28/14 14:45:19 +0000 Toms-MacBook-Air.local (5211)] INFO : Environment: development
+[01/28/14 14:45:19 +0000 Toms-MacBook-Air.local (5211)] INFO : Dispatcher: webrick
+[01/28/14 14:45:19 +0000 Toms-MacBook-Air.local (5211)] INFO : Application: development
+[01/28/14 14:45:19 +0000 Toms-MacBook-Air.local (5211)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'development'
+[01/28/14 14:45:19 +0000 Toms-MacBook-Air.local (5211)] INFO : Installing Net instrumentation
+[01/28/14 14:45:19 +0000 Toms-MacBook-Air.local (5211)] INFO : Installing Sinatra instrumentation
+[01/28/14 14:45:19 +0000 Toms-MacBook-Air.local (5211)] INFO : Installing deferred Rack instrumentation
+[01/28/14 14:45:19 +0000 Toms-MacBook-Air.local (5211)] INFO : Finished instrumentation
+[01/28/14 14:45:19 +0000 Toms-MacBook-Air.local (5211)] INFO : Doing deferred dependency-detection before Rack startup
+[01/28/14 14:45:21 +0000 Toms-MacBook-Air.local (5217)] INFO : Starting the New Relic agent in "development" environment.
+[01/28/14 14:45:21 +0000 Toms-MacBook-Air.local (5217)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[01/28/14 14:45:21 +0000 Toms-MacBook-Air.local (5217)] INFO : Reading configuration from 
+[01/28/14 14:45:21 +0000 Toms-MacBook-Air.local (5217)] ERROR : Unable to read configuration file : Is a directory - /Users/tomleman/dev/redress
+[01/28/14 14:45:21 +0000 Toms-MacBook-Air.local (5217)] INFO : Enabling the Request Sampler.
+[01/28/14 14:45:21 +0000 Toms-MacBook-Air.local (5217)] INFO : Environment: development
+[01/28/14 14:45:21 +0000 Toms-MacBook-Air.local (5217)] INFO : Dispatcher: webrick
+[01/28/14 14:45:21 +0000 Toms-MacBook-Air.local (5217)] INFO : Application: development
+[01/28/14 14:45:21 +0000 Toms-MacBook-Air.local (5217)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'development'
+[01/28/14 14:45:21 +0000 Toms-MacBook-Air.local (5217)] INFO : Installing Net instrumentation
+[01/28/14 14:45:21 +0000 Toms-MacBook-Air.local (5217)] INFO : Installing Sinatra instrumentation
+[01/28/14 14:45:21 +0000 Toms-MacBook-Air.local (5217)] INFO : Installing deferred Rack instrumentation
+[01/28/14 14:45:21 +0000 Toms-MacBook-Air.local (5217)] INFO : Finished instrumentation
+[01/28/14 14:45:21 +0000 Toms-MacBook-Air.local (5217)] INFO : Doing deferred dependency-detection before Rack startup
+[01/28/14 14:45:42 +0000 Toms-MacBook-Air.local (5221)] INFO : Starting the New Relic agent in "development" environment.
+[01/28/14 14:45:42 +0000 Toms-MacBook-Air.local (5221)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[01/28/14 14:45:42 +0000 Toms-MacBook-Air.local (5221)] INFO : Reading configuration from 
+[01/28/14 14:45:42 +0000 Toms-MacBook-Air.local (5221)] ERROR : Unable to read configuration file : Is a directory - /Users/tomleman/dev/redress
+[01/28/14 14:45:42 +0000 Toms-MacBook-Air.local (5221)] INFO : Enabling the Request Sampler.
+[01/28/14 14:45:42 +0000 Toms-MacBook-Air.local (5221)] INFO : Environment: development
+[01/28/14 14:45:42 +0000 Toms-MacBook-Air.local (5221)] INFO : Dispatcher: webrick
+[01/28/14 14:45:42 +0000 Toms-MacBook-Air.local (5221)] INFO : Application: development
+[01/28/14 14:45:42 +0000 Toms-MacBook-Air.local (5221)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'development'
+[01/28/14 14:45:42 +0000 Toms-MacBook-Air.local (5221)] INFO : Installing Net instrumentation
+[01/28/14 14:45:42 +0000 Toms-MacBook-Air.local (5221)] INFO : Installing Sinatra instrumentation
+[01/28/14 14:45:42 +0000 Toms-MacBook-Air.local (5221)] INFO : Installing deferred Rack instrumentation
+[01/28/14 14:45:42 +0000 Toms-MacBook-Air.local (5221)] INFO : Finished instrumentation
+[01/28/14 14:45:42 +0000 Toms-MacBook-Air.local (5221)] INFO : Doing deferred dependency-detection before Rack startup
+[01/28/14 14:45:44 +0000 Toms-MacBook-Air.local (5226)] INFO : Starting the New Relic agent in "development" environment.
+[01/28/14 14:45:44 +0000 Toms-MacBook-Air.local (5226)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[01/28/14 14:45:44 +0000 Toms-MacBook-Air.local (5226)] INFO : Reading configuration from 
+[01/28/14 14:45:44 +0000 Toms-MacBook-Air.local (5226)] ERROR : Unable to read configuration file : Is a directory - /Users/tomleman/dev/redress
+[01/28/14 14:45:44 +0000 Toms-MacBook-Air.local (5226)] INFO : Enabling the Request Sampler.
+[01/28/14 14:45:44 +0000 Toms-MacBook-Air.local (5226)] INFO : Environment: development
+[01/28/14 14:45:44 +0000 Toms-MacBook-Air.local (5226)] INFO : Dispatcher: webrick
+[01/28/14 14:45:44 +0000 Toms-MacBook-Air.local (5226)] INFO : Application: development
+[01/28/14 14:45:44 +0000 Toms-MacBook-Air.local (5226)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'development'
+[01/28/14 14:45:44 +0000 Toms-MacBook-Air.local (5226)] INFO : Installing Net instrumentation
+[01/28/14 14:45:44 +0000 Toms-MacBook-Air.local (5226)] INFO : Installing Sinatra instrumentation
+[01/28/14 14:45:44 +0000 Toms-MacBook-Air.local (5226)] INFO : Installing deferred Rack instrumentation
+[01/28/14 14:45:44 +0000 Toms-MacBook-Air.local (5226)] INFO : Finished instrumentation
+[01/28/14 14:45:44 +0000 Toms-MacBook-Air.local (5226)] INFO : Doing deferred dependency-detection before Rack startup
+[01/28/14 14:47:41 +0000 Toms-MacBook-Air.local (5231)] INFO : Starting the New Relic agent in "development" environment.
+[01/28/14 14:47:41 +0000 Toms-MacBook-Air.local (5231)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[01/28/14 14:47:41 +0000 Toms-MacBook-Air.local (5231)] INFO : Reading configuration from 
+[01/28/14 14:47:41 +0000 Toms-MacBook-Air.local (5231)] ERROR : Unable to read configuration file : Is a directory - /Users/tomleman/dev/redress
+[01/28/14 14:47:41 +0000 Toms-MacBook-Air.local (5231)] INFO : Enabling the Request Sampler.
+[01/28/14 14:47:41 +0000 Toms-MacBook-Air.local (5231)] INFO : Environment: development
+[01/28/14 14:47:41 +0000 Toms-MacBook-Air.local (5231)] INFO : Dispatcher: webrick
+[01/28/14 14:47:41 +0000 Toms-MacBook-Air.local (5231)] INFO : Application: development
+[01/28/14 14:47:41 +0000 Toms-MacBook-Air.local (5231)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'development'
+[01/28/14 14:47:41 +0000 Toms-MacBook-Air.local (5231)] INFO : Installing Net instrumentation
+[01/28/14 14:47:41 +0000 Toms-MacBook-Air.local (5231)] INFO : Installing Sinatra instrumentation
+[01/28/14 14:47:41 +0000 Toms-MacBook-Air.local (5231)] INFO : Installing deferred Rack instrumentation
+[01/28/14 14:47:41 +0000 Toms-MacBook-Air.local (5231)] INFO : Finished instrumentation
+[01/28/14 14:47:41 +0000 Toms-MacBook-Air.local (5231)] INFO : Doing deferred dependency-detection before Rack startup
+[01/28/14 14:51:05 +0000 Toms-MacBook-Air.local (5243)] INFO : Starting the New Relic agent in "development" environment.
+[01/28/14 14:51:05 +0000 Toms-MacBook-Air.local (5243)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[01/28/14 14:51:05 +0000 Toms-MacBook-Air.local (5243)] INFO : Reading configuration from 
+[01/28/14 14:51:05 +0000 Toms-MacBook-Air.local (5243)] ERROR : Unable to read configuration file : Is a directory - /Users/tomleman/dev/redress
+[01/28/14 14:51:05 +0000 Toms-MacBook-Air.local (5243)] INFO : Enabling the Request Sampler.
+[01/28/14 14:51:05 +0000 Toms-MacBook-Air.local (5243)] INFO : Environment: development
+[01/28/14 14:51:05 +0000 Toms-MacBook-Air.local (5243)] INFO : Dispatcher: webrick
+[01/28/14 14:51:05 +0000 Toms-MacBook-Air.local (5243)] INFO : Application: development
+[01/28/14 14:51:05 +0000 Toms-MacBook-Air.local (5243)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'development'
+[01/28/14 14:51:05 +0000 Toms-MacBook-Air.local (5243)] INFO : Installing Net instrumentation
+[01/28/14 14:51:05 +0000 Toms-MacBook-Air.local (5243)] INFO : Installing Sinatra instrumentation
+[01/28/14 14:51:05 +0000 Toms-MacBook-Air.local (5243)] INFO : Installing deferred Rack instrumentation
+[01/28/14 14:51:05 +0000 Toms-MacBook-Air.local (5243)] INFO : Finished instrumentation
+[01/28/14 14:51:05 +0000 Toms-MacBook-Air.local (5243)] INFO : Doing deferred dependency-detection before Rack startup
+[01/28/14 14:52:33 +0000 Toms-MacBook-Air.local (5251)] INFO : Starting the New Relic agent in "development" environment.
+[01/28/14 14:52:33 +0000 Toms-MacBook-Air.local (5251)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[01/28/14 14:52:33 +0000 Toms-MacBook-Air.local (5251)] INFO : Reading configuration from 
+[01/28/14 14:52:33 +0000 Toms-MacBook-Air.local (5251)] ERROR : Unable to read configuration file : Is a directory - /Users/tomleman/dev/redress
+[01/28/14 14:52:33 +0000 Toms-MacBook-Air.local (5251)] INFO : Enabling the Request Sampler.
+[01/28/14 14:52:33 +0000 Toms-MacBook-Air.local (5251)] INFO : Environment: development
+[01/28/14 14:52:33 +0000 Toms-MacBook-Air.local (5251)] INFO : Dispatcher: webrick
+[01/28/14 14:52:33 +0000 Toms-MacBook-Air.local (5251)] INFO : Application: development
+[01/28/14 14:52:33 +0000 Toms-MacBook-Air.local (5251)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'development'
+[01/28/14 14:52:33 +0000 Toms-MacBook-Air.local (5251)] INFO : Installing Net instrumentation
+[01/28/14 14:52:33 +0000 Toms-MacBook-Air.local (5251)] INFO : Installing Sinatra instrumentation
+[01/28/14 14:52:33 +0000 Toms-MacBook-Air.local (5251)] INFO : Installing deferred Rack instrumentation
+[01/28/14 14:52:33 +0000 Toms-MacBook-Air.local (5251)] INFO : Finished instrumentation
+[01/28/14 14:52:33 +0000 Toms-MacBook-Air.local (5251)] INFO : Doing deferred dependency-detection before Rack startup
+[01/28/14 14:52:46 +0000 Toms-MacBook-Air.local (5256)] INFO : Starting the New Relic agent in "development" environment.
+[01/28/14 14:52:46 +0000 Toms-MacBook-Air.local (5256)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[01/28/14 14:52:46 +0000 Toms-MacBook-Air.local (5256)] INFO : Reading configuration from 
+[01/28/14 14:52:46 +0000 Toms-MacBook-Air.local (5256)] ERROR : Unable to read configuration file : Is a directory - /Users/tomleman/dev/redress
+[01/28/14 14:52:46 +0000 Toms-MacBook-Air.local (5256)] INFO : Enabling the Request Sampler.
+[01/28/14 14:52:46 +0000 Toms-MacBook-Air.local (5256)] INFO : Environment: development
+[01/28/14 14:52:46 +0000 Toms-MacBook-Air.local (5256)] INFO : Dispatcher: webrick
+[01/28/14 14:52:46 +0000 Toms-MacBook-Air.local (5256)] INFO : Application: development
+[01/28/14 14:52:46 +0000 Toms-MacBook-Air.local (5256)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'development'
+[01/28/14 14:52:46 +0000 Toms-MacBook-Air.local (5256)] INFO : Installing Net instrumentation
+[01/28/14 14:52:46 +0000 Toms-MacBook-Air.local (5256)] INFO : Installing Sinatra instrumentation
+[01/28/14 14:52:46 +0000 Toms-MacBook-Air.local (5256)] INFO : Installing deferred Rack instrumentation
+[01/28/14 14:52:46 +0000 Toms-MacBook-Air.local (5256)] INFO : Finished instrumentation
+[01/28/14 14:52:46 +0000 Toms-MacBook-Air.local (5256)] INFO : Doing deferred dependency-detection before Rack startup
+[01/28/14 14:53:40 +0000 Toms-MacBook-Air.local (5262)] INFO : Starting the New Relic agent in "development" environment.
+[01/28/14 14:53:40 +0000 Toms-MacBook-Air.local (5262)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[01/28/14 14:53:40 +0000 Toms-MacBook-Air.local (5262)] INFO : Reading configuration from 
+[01/28/14 14:53:40 +0000 Toms-MacBook-Air.local (5262)] ERROR : Unable to read configuration file : Is a directory - /Users/tomleman/dev/redress
+[01/28/14 14:53:40 +0000 Toms-MacBook-Air.local (5262)] INFO : Enabling the Request Sampler.
+[01/28/14 14:53:40 +0000 Toms-MacBook-Air.local (5262)] INFO : Environment: development
+[01/28/14 14:53:40 +0000 Toms-MacBook-Air.local (5262)] INFO : Dispatcher: webrick
+[01/28/14 14:53:40 +0000 Toms-MacBook-Air.local (5262)] INFO : Application: development
+[01/28/14 14:53:40 +0000 Toms-MacBook-Air.local (5262)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'development'
+[01/28/14 14:53:40 +0000 Toms-MacBook-Air.local (5262)] INFO : Installing Net instrumentation
+[01/28/14 14:53:40 +0000 Toms-MacBook-Air.local (5262)] INFO : Installing Sinatra instrumentation
+[01/28/14 14:53:40 +0000 Toms-MacBook-Air.local (5262)] INFO : Installing deferred Rack instrumentation
+[01/28/14 14:53:40 +0000 Toms-MacBook-Air.local (5262)] INFO : Finished instrumentation
+[01/28/14 14:53:40 +0000 Toms-MacBook-Air.local (5262)] INFO : Doing deferred dependency-detection before Rack startup
+[01/28/14 14:53:50 +0000 Toms-MacBook-Air.local (5266)] INFO : Starting the New Relic agent in "development" environment.
+[01/28/14 14:53:50 +0000 Toms-MacBook-Air.local (5266)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[01/28/14 14:53:50 +0000 Toms-MacBook-Air.local (5266)] INFO : Reading configuration from 
+[01/28/14 14:53:50 +0000 Toms-MacBook-Air.local (5266)] ERROR : Unable to read configuration file : Is a directory - /Users/tomleman/dev/redress
+[01/28/14 14:53:50 +0000 Toms-MacBook-Air.local (5266)] INFO : Enabling the Request Sampler.
+[01/28/14 14:53:50 +0000 Toms-MacBook-Air.local (5266)] INFO : Environment: development
+[01/28/14 14:53:50 +0000 Toms-MacBook-Air.local (5266)] INFO : Dispatcher: webrick
+[01/28/14 14:53:50 +0000 Toms-MacBook-Air.local (5266)] INFO : Application: development
+[01/28/14 14:53:50 +0000 Toms-MacBook-Air.local (5266)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'development'
+[01/28/14 14:53:50 +0000 Toms-MacBook-Air.local (5266)] INFO : Installing Net instrumentation
+[01/28/14 14:53:50 +0000 Toms-MacBook-Air.local (5266)] INFO : Installing Sinatra instrumentation
+[01/28/14 14:53:50 +0000 Toms-MacBook-Air.local (5266)] INFO : Installing deferred Rack instrumentation
+[01/28/14 14:53:50 +0000 Toms-MacBook-Air.local (5266)] INFO : Finished instrumentation
+[01/28/14 14:53:50 +0000 Toms-MacBook-Air.local (5266)] INFO : Doing deferred dependency-detection before Rack startup
+[01/28/14 14:53:59 +0000 Toms-MacBook-Air.local (5271)] INFO : Starting the New Relic agent in "development" environment.
+[01/28/14 14:53:59 +0000 Toms-MacBook-Air.local (5271)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[01/28/14 14:53:59 +0000 Toms-MacBook-Air.local (5271)] INFO : Reading configuration from 
+[01/28/14 14:53:59 +0000 Toms-MacBook-Air.local (5271)] ERROR : Unable to read configuration file : Is a directory - /Users/tomleman/dev/redress
+[01/28/14 14:53:59 +0000 Toms-MacBook-Air.local (5271)] INFO : Enabling the Request Sampler.
+[01/28/14 14:53:59 +0000 Toms-MacBook-Air.local (5271)] INFO : Environment: development
+[01/28/14 14:53:59 +0000 Toms-MacBook-Air.local (5271)] INFO : Dispatcher: webrick
+[01/28/14 14:53:59 +0000 Toms-MacBook-Air.local (5271)] INFO : Application: development
+[01/28/14 14:53:59 +0000 Toms-MacBook-Air.local (5271)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'development'
+[01/28/14 14:53:59 +0000 Toms-MacBook-Air.local (5271)] INFO : Installing Net instrumentation
+[01/28/14 14:53:59 +0000 Toms-MacBook-Air.local (5271)] INFO : Installing Sinatra instrumentation
+[01/28/14 14:53:59 +0000 Toms-MacBook-Air.local (5271)] INFO : Installing deferred Rack instrumentation
+[01/28/14 14:53:59 +0000 Toms-MacBook-Air.local (5271)] INFO : Finished instrumentation
+[01/28/14 14:53:59 +0000 Toms-MacBook-Air.local (5271)] INFO : Doing deferred dependency-detection before Rack startup
+[01/28/14 14:54:05 +0000 Toms-MacBook-Air.local (5275)] INFO : Starting the New Relic agent in "development" environment.
+[01/28/14 14:54:05 +0000 Toms-MacBook-Air.local (5275)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[01/28/14 14:54:05 +0000 Toms-MacBook-Air.local (5275)] INFO : Reading configuration from 
+[01/28/14 14:54:05 +0000 Toms-MacBook-Air.local (5275)] ERROR : Unable to read configuration file : Is a directory - /Users/tomleman/dev/redress
+[01/28/14 14:54:05 +0000 Toms-MacBook-Air.local (5275)] INFO : Enabling the Request Sampler.
+[01/28/14 14:54:05 +0000 Toms-MacBook-Air.local (5275)] INFO : Environment: development
+[01/28/14 14:54:05 +0000 Toms-MacBook-Air.local (5275)] INFO : Dispatcher: webrick
+[01/28/14 14:54:05 +0000 Toms-MacBook-Air.local (5275)] INFO : Application: development
+[01/28/14 14:54:05 +0000 Toms-MacBook-Air.local (5275)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'development'
+[01/28/14 14:54:05 +0000 Toms-MacBook-Air.local (5275)] INFO : Installing Net instrumentation
+[01/28/14 14:54:05 +0000 Toms-MacBook-Air.local (5275)] INFO : Installing Sinatra instrumentation
+[01/28/14 14:54:05 +0000 Toms-MacBook-Air.local (5275)] INFO : Installing deferred Rack instrumentation
+[01/28/14 14:54:05 +0000 Toms-MacBook-Air.local (5275)] INFO : Finished instrumentation
+[01/28/14 14:54:05 +0000 Toms-MacBook-Air.local (5275)] INFO : Doing deferred dependency-detection before Rack startup
+[01/28/14 14:55:17 +0000 Toms-MacBook-Air.local (5281)] INFO : Starting the New Relic agent in "development" environment.
+[01/28/14 14:55:17 +0000 Toms-MacBook-Air.local (5281)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[01/28/14 14:55:17 +0000 Toms-MacBook-Air.local (5281)] INFO : Reading configuration from 
+[01/28/14 14:55:17 +0000 Toms-MacBook-Air.local (5281)] ERROR : Unable to read configuration file : Is a directory - /Users/tomleman/dev/redress
+[01/28/14 14:55:17 +0000 Toms-MacBook-Air.local (5281)] INFO : Enabling the Request Sampler.
+[01/28/14 14:55:17 +0000 Toms-MacBook-Air.local (5281)] INFO : Environment: development
+[01/28/14 14:55:17 +0000 Toms-MacBook-Air.local (5281)] INFO : Dispatcher: webrick
+[01/28/14 14:55:17 +0000 Toms-MacBook-Air.local (5281)] INFO : Application: development
+[01/28/14 14:55:17 +0000 Toms-MacBook-Air.local (5281)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'development'
+[01/28/14 14:55:17 +0000 Toms-MacBook-Air.local (5281)] INFO : Installing Net instrumentation
+[01/28/14 14:55:17 +0000 Toms-MacBook-Air.local (5281)] INFO : Installing Sinatra instrumentation
+[01/28/14 14:55:17 +0000 Toms-MacBook-Air.local (5281)] INFO : Installing deferred Rack instrumentation
+[01/28/14 14:55:17 +0000 Toms-MacBook-Air.local (5281)] INFO : Finished instrumentation
+[01/28/14 14:55:17 +0000 Toms-MacBook-Air.local (5281)] INFO : Doing deferred dependency-detection before Rack startup
+[01/28/14 14:55:35 +0000 Toms-MacBook-Air.local (5285)] INFO : Starting the New Relic agent in "development" environment.
+[01/28/14 14:55:35 +0000 Toms-MacBook-Air.local (5285)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[01/28/14 14:55:35 +0000 Toms-MacBook-Air.local (5285)] INFO : Reading configuration from 
+[01/28/14 14:55:35 +0000 Toms-MacBook-Air.local (5285)] ERROR : Unable to read configuration file : Is a directory - /Users/tomleman/dev/redress
+[01/28/14 14:55:35 +0000 Toms-MacBook-Air.local (5285)] INFO : Enabling the Request Sampler.
+[01/28/14 14:55:35 +0000 Toms-MacBook-Air.local (5285)] INFO : Environment: development
+[01/28/14 14:55:35 +0000 Toms-MacBook-Air.local (5285)] INFO : Dispatcher: webrick
+[01/28/14 14:55:35 +0000 Toms-MacBook-Air.local (5285)] INFO : Application: development
+[01/28/14 14:55:35 +0000 Toms-MacBook-Air.local (5285)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'development'
+[01/28/14 14:55:35 +0000 Toms-MacBook-Air.local (5285)] INFO : Installing Net instrumentation
+[01/28/14 14:55:35 +0000 Toms-MacBook-Air.local (5285)] INFO : Installing Sinatra instrumentation
+[01/28/14 14:55:35 +0000 Toms-MacBook-Air.local (5285)] INFO : Installing deferred Rack instrumentation
+[01/28/14 14:55:35 +0000 Toms-MacBook-Air.local (5285)] INFO : Finished instrumentation
+[01/28/14 14:55:35 +0000 Toms-MacBook-Air.local (5285)] INFO : Doing deferred dependency-detection before Rack startup
+[01/28/14 14:55:42 +0000 Toms-MacBook-Air.local (5289)] INFO : Starting the New Relic agent in "development" environment.
+[01/28/14 14:55:42 +0000 Toms-MacBook-Air.local (5289)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[01/28/14 14:55:42 +0000 Toms-MacBook-Air.local (5289)] INFO : Reading configuration from 
+[01/28/14 14:55:42 +0000 Toms-MacBook-Air.local (5289)] ERROR : Unable to read configuration file : Is a directory - /Users/tomleman/dev/redress
+[01/28/14 14:55:42 +0000 Toms-MacBook-Air.local (5289)] INFO : Enabling the Request Sampler.
+[01/28/14 14:55:42 +0000 Toms-MacBook-Air.local (5289)] INFO : Environment: development
+[01/28/14 14:55:42 +0000 Toms-MacBook-Air.local (5289)] INFO : Dispatcher: webrick
+[01/28/14 14:55:42 +0000 Toms-MacBook-Air.local (5289)] INFO : Application: development
+[01/28/14 14:55:42 +0000 Toms-MacBook-Air.local (5289)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'development'
+[01/28/14 14:55:42 +0000 Toms-MacBook-Air.local (5289)] INFO : Installing Net instrumentation
+[01/28/14 14:55:42 +0000 Toms-MacBook-Air.local (5289)] INFO : Installing Sinatra instrumentation
+[01/28/14 14:55:42 +0000 Toms-MacBook-Air.local (5289)] INFO : Installing deferred Rack instrumentation
+[01/28/14 14:55:42 +0000 Toms-MacBook-Air.local (5289)] INFO : Finished instrumentation
+[01/28/14 14:55:42 +0000 Toms-MacBook-Air.local (5289)] INFO : Doing deferred dependency-detection before Rack startup
+[01/28/14 14:55:56 +0000 Toms-MacBook-Air.local (5293)] INFO : Starting the New Relic agent in "development" environment.
+[01/28/14 14:55:56 +0000 Toms-MacBook-Air.local (5293)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[01/28/14 14:55:56 +0000 Toms-MacBook-Air.local (5293)] INFO : Reading configuration from 
+[01/28/14 14:55:56 +0000 Toms-MacBook-Air.local (5293)] ERROR : Unable to read configuration file : Is a directory - /Users/tomleman/dev/redress
+[01/28/14 14:55:56 +0000 Toms-MacBook-Air.local (5293)] INFO : Enabling the Request Sampler.
+[01/28/14 14:55:56 +0000 Toms-MacBook-Air.local (5293)] INFO : Environment: development
+[01/28/14 14:55:56 +0000 Toms-MacBook-Air.local (5293)] INFO : Dispatcher: webrick
+[01/28/14 14:55:56 +0000 Toms-MacBook-Air.local (5293)] INFO : Application: development
+[01/28/14 14:55:56 +0000 Toms-MacBook-Air.local (5293)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'development'
+[01/28/14 14:55:56 +0000 Toms-MacBook-Air.local (5293)] INFO : Installing Net instrumentation
+[01/28/14 14:55:56 +0000 Toms-MacBook-Air.local (5293)] INFO : Installing Sinatra instrumentation
+[01/28/14 14:55:56 +0000 Toms-MacBook-Air.local (5293)] INFO : Installing deferred Rack instrumentation
+[01/28/14 14:55:56 +0000 Toms-MacBook-Air.local (5293)] INFO : Finished instrumentation
+[01/28/14 14:55:56 +0000 Toms-MacBook-Air.local (5293)] INFO : Doing deferred dependency-detection before Rack startup
+[01/28/14 14:56:04 +0000 Toms-MacBook-Air.local (5299)] INFO : Starting the New Relic agent in "development" environment.
+[01/28/14 14:56:04 +0000 Toms-MacBook-Air.local (5299)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[01/28/14 14:56:04 +0000 Toms-MacBook-Air.local (5299)] INFO : Reading configuration from 
+[01/28/14 14:56:04 +0000 Toms-MacBook-Air.local (5299)] ERROR : Unable to read configuration file : Is a directory - /Users/tomleman/dev/redress
+[01/28/14 14:56:04 +0000 Toms-MacBook-Air.local (5299)] INFO : Enabling the Request Sampler.
+[01/28/14 14:56:04 +0000 Toms-MacBook-Air.local (5299)] INFO : Environment: development
+[01/28/14 14:56:04 +0000 Toms-MacBook-Air.local (5299)] INFO : Dispatcher: webrick
+[01/28/14 14:56:04 +0000 Toms-MacBook-Air.local (5299)] INFO : Application: development
+[01/28/14 14:56:04 +0000 Toms-MacBook-Air.local (5299)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'development'
+[01/28/14 14:56:04 +0000 Toms-MacBook-Air.local (5299)] INFO : Installing Net instrumentation
+[01/28/14 14:56:04 +0000 Toms-MacBook-Air.local (5299)] INFO : Installing Sinatra instrumentation
+[01/28/14 14:56:04 +0000 Toms-MacBook-Air.local (5299)] INFO : Installing deferred Rack instrumentation
+[01/28/14 14:56:04 +0000 Toms-MacBook-Air.local (5299)] INFO : Finished instrumentation
+[01/28/14 14:56:04 +0000 Toms-MacBook-Air.local (5299)] INFO : Doing deferred dependency-detection before Rack startup
+[01/28/14 15:01:11 +0000 Toms-MacBook-Air.local (5309)] INFO : Starting the New Relic agent in "development" environment.
+[01/28/14 15:01:11 +0000 Toms-MacBook-Air.local (5309)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[01/28/14 15:01:11 +0000 Toms-MacBook-Air.local (5309)] INFO : Reading configuration from 
+[01/28/14 15:01:11 +0000 Toms-MacBook-Air.local (5309)] ERROR : Unable to read configuration file : Is a directory - /Users/tomleman/dev/redress
+[01/28/14 15:01:11 +0000 Toms-MacBook-Air.local (5309)] INFO : Enabling the Request Sampler.
+[01/28/14 15:01:11 +0000 Toms-MacBook-Air.local (5309)] INFO : Environment: development
+[01/28/14 15:01:11 +0000 Toms-MacBook-Air.local (5309)] INFO : Dispatcher: webrick
+[01/28/14 15:01:11 +0000 Toms-MacBook-Air.local (5309)] INFO : Application: development
+[01/28/14 15:01:11 +0000 Toms-MacBook-Air.local (5309)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'development'
+[01/28/14 15:01:11 +0000 Toms-MacBook-Air.local (5309)] INFO : Installing Net instrumentation
+[01/28/14 15:01:11 +0000 Toms-MacBook-Air.local (5309)] INFO : Installing Sinatra instrumentation
+[01/28/14 15:01:11 +0000 Toms-MacBook-Air.local (5309)] INFO : Installing deferred Rack instrumentation
+[01/28/14 15:01:11 +0000 Toms-MacBook-Air.local (5309)] INFO : Finished instrumentation
+[01/28/14 15:01:11 +0000 Toms-MacBook-Air.local (5309)] INFO : Doing deferred dependency-detection before Rack startup
+[01/28/14 15:03:00 +0000 Toms-MacBook-Air.local (5322)] INFO : Starting the New Relic agent in "development" environment.
+[01/28/14 15:03:00 +0000 Toms-MacBook-Air.local (5322)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[01/28/14 15:03:00 +0000 Toms-MacBook-Air.local (5322)] INFO : Reading configuration from 
+[01/28/14 15:03:00 +0000 Toms-MacBook-Air.local (5322)] ERROR : Unable to read configuration file : Is a directory - /Users/tomleman/dev/redress
+[01/28/14 15:03:00 +0000 Toms-MacBook-Air.local (5322)] INFO : Enabling the Request Sampler.
+[01/28/14 15:03:00 +0000 Toms-MacBook-Air.local (5322)] INFO : Environment: development
+[01/28/14 15:03:00 +0000 Toms-MacBook-Air.local (5322)] INFO : Dispatcher: webrick
+[01/28/14 15:03:00 +0000 Toms-MacBook-Air.local (5322)] INFO : Application: development
+[01/28/14 15:03:00 +0000 Toms-MacBook-Air.local (5322)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'development'
+[01/28/14 15:03:00 +0000 Toms-MacBook-Air.local (5322)] INFO : Installing Net instrumentation
+[01/28/14 15:03:00 +0000 Toms-MacBook-Air.local (5322)] INFO : Installing Sinatra instrumentation
+[01/28/14 15:03:00 +0000 Toms-MacBook-Air.local (5322)] INFO : Installing deferred Rack instrumentation
+[01/28/14 15:03:00 +0000 Toms-MacBook-Air.local (5322)] INFO : Finished instrumentation
+[01/28/14 15:03:00 +0000 Toms-MacBook-Air.local (5322)] INFO : Doing deferred dependency-detection before Rack startup
+[01/28/14 15:03:15 +0000 Toms-MacBook-Air.local (5325)] INFO : Starting the New Relic agent in "development" environment.
+[01/28/14 15:03:15 +0000 Toms-MacBook-Air.local (5325)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[01/28/14 15:03:15 +0000 Toms-MacBook-Air.local (5325)] INFO : Reading configuration from 
+[01/28/14 15:03:15 +0000 Toms-MacBook-Air.local (5325)] ERROR : Unable to read configuration file : Is a directory - /Users/tomleman/dev/redress
+[01/28/14 15:03:15 +0000 Toms-MacBook-Air.local (5325)] INFO : Enabling the Request Sampler.
+[01/28/14 15:03:15 +0000 Toms-MacBook-Air.local (5325)] INFO : Environment: development
+[01/28/14 15:03:15 +0000 Toms-MacBook-Air.local (5325)] INFO : Dispatcher: webrick
+[01/28/14 15:03:15 +0000 Toms-MacBook-Air.local (5325)] INFO : Application: development
+[01/28/14 15:03:15 +0000 Toms-MacBook-Air.local (5325)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'development'
+[01/28/14 15:03:15 +0000 Toms-MacBook-Air.local (5325)] INFO : Installing Net instrumentation
+[01/28/14 15:03:15 +0000 Toms-MacBook-Air.local (5325)] INFO : Installing Sinatra instrumentation
+[01/28/14 15:03:15 +0000 Toms-MacBook-Air.local (5325)] INFO : Installing deferred Rack instrumentation
+[01/28/14 15:03:15 +0000 Toms-MacBook-Air.local (5325)] INFO : Finished instrumentation
+[01/28/14 15:03:15 +0000 Toms-MacBook-Air.local (5325)] INFO : Doing deferred dependency-detection before Rack startup
+[01/28/14 15:03:26 +0000 Toms-MacBook-Air.local (5330)] INFO : Starting the New Relic agent in "development" environment.
+[01/28/14 15:03:26 +0000 Toms-MacBook-Air.local (5330)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[01/28/14 15:03:26 +0000 Toms-MacBook-Air.local (5330)] INFO : Reading configuration from 
+[01/28/14 15:03:26 +0000 Toms-MacBook-Air.local (5330)] ERROR : Unable to read configuration file : Is a directory - /Users/tomleman/dev/redress
+[01/28/14 15:03:26 +0000 Toms-MacBook-Air.local (5330)] INFO : Enabling the Request Sampler.
+[01/28/14 15:03:26 +0000 Toms-MacBook-Air.local (5330)] INFO : Environment: development
+[01/28/14 15:03:26 +0000 Toms-MacBook-Air.local (5330)] INFO : Dispatcher: webrick
+[01/28/14 15:03:26 +0000 Toms-MacBook-Air.local (5330)] INFO : Application: development
+[01/28/14 15:03:26 +0000 Toms-MacBook-Air.local (5330)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'development'
+[01/28/14 15:03:26 +0000 Toms-MacBook-Air.local (5330)] INFO : Installing Net instrumentation
+[01/28/14 15:03:26 +0000 Toms-MacBook-Air.local (5330)] INFO : Installing Sinatra instrumentation
+[01/28/14 15:03:26 +0000 Toms-MacBook-Air.local (5330)] INFO : Installing deferred Rack instrumentation
+[01/28/14 15:03:26 +0000 Toms-MacBook-Air.local (5330)] INFO : Finished instrumentation
+[01/28/14 15:03:26 +0000 Toms-MacBook-Air.local (5330)] INFO : Doing deferred dependency-detection before Rack startup
+[01/28/14 15:03:36 +0000 Toms-MacBook-Air.local (5336)] INFO : Starting the New Relic agent in "development" environment.
+[01/28/14 15:03:36 +0000 Toms-MacBook-Air.local (5336)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[01/28/14 15:03:36 +0000 Toms-MacBook-Air.local (5336)] INFO : Reading configuration from 
+[01/28/14 15:03:36 +0000 Toms-MacBook-Air.local (5336)] ERROR : Unable to read configuration file : Is a directory - /Users/tomleman/dev/redress
+[01/28/14 15:03:36 +0000 Toms-MacBook-Air.local (5336)] INFO : Enabling the Request Sampler.
+[01/28/14 15:03:36 +0000 Toms-MacBook-Air.local (5336)] INFO : Environment: development
+[01/28/14 15:03:36 +0000 Toms-MacBook-Air.local (5336)] INFO : Dispatcher: webrick
+[01/28/14 15:03:36 +0000 Toms-MacBook-Air.local (5336)] INFO : Application: development
+[01/28/14 15:03:36 +0000 Toms-MacBook-Air.local (5336)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'development'
+[01/28/14 15:03:36 +0000 Toms-MacBook-Air.local (5336)] INFO : Installing Net instrumentation
+[01/28/14 15:03:36 +0000 Toms-MacBook-Air.local (5336)] INFO : Installing Sinatra instrumentation
+[01/28/14 15:03:36 +0000 Toms-MacBook-Air.local (5336)] INFO : Installing deferred Rack instrumentation
+[01/28/14 15:03:36 +0000 Toms-MacBook-Air.local (5336)] INFO : Finished instrumentation
+[01/28/14 15:03:36 +0000 Toms-MacBook-Air.local (5336)] INFO : Doing deferred dependency-detection before Rack startup
+[01/28/14 15:05:32 +0000 Toms-MacBook-Air.local (5341)] INFO : Starting the New Relic agent in "development" environment.
+[01/28/14 15:05:32 +0000 Toms-MacBook-Air.local (5341)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[01/28/14 15:05:32 +0000 Toms-MacBook-Air.local (5341)] INFO : Reading configuration from 
+[01/28/14 15:05:32 +0000 Toms-MacBook-Air.local (5341)] ERROR : Unable to read configuration file : Is a directory - /Users/tomleman/dev/redress
+[01/28/14 15:05:32 +0000 Toms-MacBook-Air.local (5341)] INFO : Enabling the Request Sampler.
+[01/28/14 15:05:32 +0000 Toms-MacBook-Air.local (5341)] INFO : Environment: development
+[01/28/14 15:05:32 +0000 Toms-MacBook-Air.local (5341)] INFO : Dispatcher: webrick
+[01/28/14 15:05:32 +0000 Toms-MacBook-Air.local (5341)] INFO : Application: development
+[01/28/14 15:05:32 +0000 Toms-MacBook-Air.local (5341)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'development'
+[01/28/14 15:05:32 +0000 Toms-MacBook-Air.local (5341)] INFO : Installing Net instrumentation
+[01/28/14 15:05:32 +0000 Toms-MacBook-Air.local (5341)] INFO : Installing Sinatra instrumentation
+[01/28/14 15:05:32 +0000 Toms-MacBook-Air.local (5341)] INFO : Installing deferred Rack instrumentation
+[01/28/14 15:05:32 +0000 Toms-MacBook-Air.local (5341)] INFO : Finished instrumentation
+[01/28/14 15:05:32 +0000 Toms-MacBook-Air.local (5341)] INFO : Doing deferred dependency-detection before Rack startup
+[01/28/14 15:05:53 +0000 Toms-MacBook-Air.local (5347)] INFO : Starting the New Relic agent in "development" environment.
+[01/28/14 15:05:53 +0000 Toms-MacBook-Air.local (5347)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[01/28/14 15:05:53 +0000 Toms-MacBook-Air.local (5347)] INFO : Reading configuration from 
+[01/28/14 15:05:53 +0000 Toms-MacBook-Air.local (5347)] ERROR : Unable to read configuration file : Is a directory - /Users/tomleman/dev/redress
+[01/28/14 15:05:53 +0000 Toms-MacBook-Air.local (5347)] INFO : Enabling the Request Sampler.
+[01/28/14 15:05:53 +0000 Toms-MacBook-Air.local (5347)] INFO : Environment: development
+[01/28/14 15:05:53 +0000 Toms-MacBook-Air.local (5347)] INFO : Dispatcher: webrick
+[01/28/14 15:05:53 +0000 Toms-MacBook-Air.local (5347)] INFO : Application: development
+[01/28/14 15:05:53 +0000 Toms-MacBook-Air.local (5347)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'development'
+[01/28/14 15:05:53 +0000 Toms-MacBook-Air.local (5347)] INFO : Installing Net instrumentation
+[01/28/14 15:05:53 +0000 Toms-MacBook-Air.local (5347)] INFO : Installing Sinatra instrumentation
+[01/28/14 15:05:53 +0000 Toms-MacBook-Air.local (5347)] INFO : Installing deferred Rack instrumentation
+[01/28/14 15:05:53 +0000 Toms-MacBook-Air.local (5347)] INFO : Finished instrumentation
+[01/28/14 15:05:53 +0000 Toms-MacBook-Air.local (5347)] INFO : Doing deferred dependency-detection before Rack startup
+[01/28/14 15:06:29 +0000 Toms-MacBook-Air.local (5353)] INFO : Starting the New Relic agent in "development" environment.
+[01/28/14 15:06:29 +0000 Toms-MacBook-Air.local (5353)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[01/28/14 15:06:29 +0000 Toms-MacBook-Air.local (5353)] INFO : Reading configuration from 
+[01/28/14 15:06:29 +0000 Toms-MacBook-Air.local (5353)] ERROR : Unable to read configuration file : Is a directory - /Users/tomleman/dev/redress
+[01/28/14 15:06:29 +0000 Toms-MacBook-Air.local (5353)] INFO : Enabling the Request Sampler.
+[01/28/14 15:06:29 +0000 Toms-MacBook-Air.local (5353)] INFO : Environment: development
+[01/28/14 15:06:29 +0000 Toms-MacBook-Air.local (5353)] INFO : Dispatcher: webrick
+[01/28/14 15:06:29 +0000 Toms-MacBook-Air.local (5353)] INFO : Application: development
+[01/28/14 15:06:29 +0000 Toms-MacBook-Air.local (5353)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'development'
+[01/28/14 15:06:29 +0000 Toms-MacBook-Air.local (5353)] INFO : Installing Net instrumentation
+[01/28/14 15:06:29 +0000 Toms-MacBook-Air.local (5353)] INFO : Installing Sinatra instrumentation
+[01/28/14 15:06:29 +0000 Toms-MacBook-Air.local (5353)] INFO : Installing deferred Rack instrumentation
+[01/28/14 15:06:29 +0000 Toms-MacBook-Air.local (5353)] INFO : Finished instrumentation
+[01/28/14 15:06:29 +0000 Toms-MacBook-Air.local (5353)] INFO : Doing deferred dependency-detection before Rack startup
+[01/28/14 15:07:44 +0000 Toms-MacBook-Air.local (5359)] INFO : Starting the New Relic agent in "development" environment.
+[01/28/14 15:07:44 +0000 Toms-MacBook-Air.local (5359)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[01/28/14 15:07:44 +0000 Toms-MacBook-Air.local (5359)] INFO : Reading configuration from 
+[01/28/14 15:07:44 +0000 Toms-MacBook-Air.local (5359)] ERROR : Unable to read configuration file : Is a directory - /Users/tomleman/dev/redress
+[01/28/14 15:07:44 +0000 Toms-MacBook-Air.local (5359)] INFO : Enabling the Request Sampler.
+[01/28/14 15:07:44 +0000 Toms-MacBook-Air.local (5359)] INFO : Environment: development
+[01/28/14 15:07:44 +0000 Toms-MacBook-Air.local (5359)] INFO : Dispatcher: webrick
+[01/28/14 15:07:44 +0000 Toms-MacBook-Air.local (5359)] INFO : Application: development
+[01/28/14 15:07:44 +0000 Toms-MacBook-Air.local (5359)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'development'
+[01/28/14 15:07:44 +0000 Toms-MacBook-Air.local (5359)] INFO : Installing Net instrumentation
+[01/28/14 15:07:44 +0000 Toms-MacBook-Air.local (5359)] INFO : Installing Sinatra instrumentation
+[01/28/14 15:07:44 +0000 Toms-MacBook-Air.local (5359)] INFO : Installing deferred Rack instrumentation
+[01/28/14 15:07:44 +0000 Toms-MacBook-Air.local (5359)] INFO : Finished instrumentation
+[01/28/14 15:07:44 +0000 Toms-MacBook-Air.local (5359)] INFO : Doing deferred dependency-detection before Rack startup
+[01/28/14 15:09:07 +0000 Toms-MacBook-Air.local (5540)] INFO : Starting the New Relic agent in "development" environment.
+[01/28/14 15:09:07 +0000 Toms-MacBook-Air.local (5540)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[01/28/14 15:09:07 +0000 Toms-MacBook-Air.local (5540)] INFO : Reading configuration from 
+[01/28/14 15:09:07 +0000 Toms-MacBook-Air.local (5540)] ERROR : Unable to read configuration file : Is a directory - /Users/tomleman/dev/redress
+[01/28/14 15:09:07 +0000 Toms-MacBook-Air.local (5540)] INFO : Enabling the Request Sampler.
+[01/28/14 15:09:07 +0000 Toms-MacBook-Air.local (5540)] INFO : Environment: development
+[01/28/14 15:09:07 +0000 Toms-MacBook-Air.local (5540)] INFO : Dispatcher: webrick
+[01/28/14 15:09:07 +0000 Toms-MacBook-Air.local (5540)] INFO : Application: development
+[01/28/14 15:09:07 +0000 Toms-MacBook-Air.local (5540)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'development'
+[01/28/14 15:09:07 +0000 Toms-MacBook-Air.local (5540)] INFO : Installing Net instrumentation
+[01/28/14 15:09:07 +0000 Toms-MacBook-Air.local (5540)] INFO : Installing Sinatra instrumentation
+[01/28/14 15:09:07 +0000 Toms-MacBook-Air.local (5540)] INFO : Installing deferred Rack instrumentation
+[01/28/14 15:09:07 +0000 Toms-MacBook-Air.local (5540)] INFO : Finished instrumentation
+[01/28/14 15:09:07 +0000 Toms-MacBook-Air.local (5540)] INFO : Doing deferred dependency-detection before Rack startup
+[01/28/14 15:13:53 +0000 Toms-MacBook-Air.local (5546)] INFO : Starting the New Relic agent in "development" environment.
+[01/28/14 15:13:53 +0000 Toms-MacBook-Air.local (5546)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[01/28/14 15:13:53 +0000 Toms-MacBook-Air.local (5546)] INFO : Reading configuration from 
+[01/28/14 15:13:53 +0000 Toms-MacBook-Air.local (5546)] ERROR : Unable to read configuration file : Is a directory - /Users/tomleman/dev/redress
+[01/28/14 15:13:53 +0000 Toms-MacBook-Air.local (5546)] INFO : Enabling the Request Sampler.
+[01/28/14 15:13:53 +0000 Toms-MacBook-Air.local (5546)] INFO : Environment: development
+[01/28/14 15:13:53 +0000 Toms-MacBook-Air.local (5546)] INFO : Dispatcher: webrick
+[01/28/14 15:13:53 +0000 Toms-MacBook-Air.local (5546)] INFO : Application: development
+[01/28/14 15:13:53 +0000 Toms-MacBook-Air.local (5546)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'development'
+[01/28/14 15:13:53 +0000 Toms-MacBook-Air.local (5546)] INFO : Installing Net instrumentation
+[01/28/14 15:13:53 +0000 Toms-MacBook-Air.local (5546)] INFO : Installing Sinatra instrumentation
+[01/28/14 15:13:53 +0000 Toms-MacBook-Air.local (5546)] INFO : Installing deferred Rack instrumentation
+[01/28/14 15:13:53 +0000 Toms-MacBook-Air.local (5546)] INFO : Finished instrumentation
+[01/28/14 15:13:53 +0000 Toms-MacBook-Air.local (5546)] INFO : Doing deferred dependency-detection before Rack startup
+[01/28/14 15:13:58 +0000 Toms-MacBook-Air.local (5549)] INFO : Starting the New Relic agent in "development" environment.
+[01/28/14 15:13:58 +0000 Toms-MacBook-Air.local (5549)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[01/28/14 15:13:58 +0000 Toms-MacBook-Air.local (5549)] INFO : Reading configuration from 
+[01/28/14 15:13:58 +0000 Toms-MacBook-Air.local (5549)] ERROR : Unable to read configuration file : Is a directory - /Users/tomleman/dev/redress
+[01/28/14 15:13:58 +0000 Toms-MacBook-Air.local (5549)] INFO : Enabling the Request Sampler.
+[01/28/14 15:13:58 +0000 Toms-MacBook-Air.local (5549)] INFO : Environment: development
+[01/28/14 15:13:58 +0000 Toms-MacBook-Air.local (5549)] INFO : Dispatcher: webrick
+[01/28/14 15:13:58 +0000 Toms-MacBook-Air.local (5549)] INFO : Application: development
+[01/28/14 15:13:58 +0000 Toms-MacBook-Air.local (5549)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'development'
+[01/28/14 15:13:58 +0000 Toms-MacBook-Air.local (5549)] INFO : Installing Net instrumentation
+[01/28/14 15:13:58 +0000 Toms-MacBook-Air.local (5549)] INFO : Installing Sinatra instrumentation
+[01/28/14 15:13:58 +0000 Toms-MacBook-Air.local (5549)] INFO : Installing deferred Rack instrumentation
+[01/28/14 15:13:58 +0000 Toms-MacBook-Air.local (5549)] INFO : Finished instrumentation
+[01/28/14 15:13:58 +0000 Toms-MacBook-Air.local (5549)] INFO : Doing deferred dependency-detection before Rack startup
+[01/28/14 15:14:02 +0000 Toms-MacBook-Air.local (5552)] INFO : Starting the New Relic agent in "development" environment.
+[01/28/14 15:14:02 +0000 Toms-MacBook-Air.local (5552)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[01/28/14 15:14:02 +0000 Toms-MacBook-Air.local (5552)] INFO : Reading configuration from 
+[01/28/14 15:14:02 +0000 Toms-MacBook-Air.local (5552)] ERROR : Unable to read configuration file : Is a directory - /Users/tomleman/dev/redress
+[01/28/14 15:14:02 +0000 Toms-MacBook-Air.local (5552)] INFO : Enabling the Request Sampler.
+[01/28/14 15:14:02 +0000 Toms-MacBook-Air.local (5552)] INFO : Environment: development
+[01/28/14 15:14:02 +0000 Toms-MacBook-Air.local (5552)] INFO : Dispatcher: webrick
+[01/28/14 15:14:02 +0000 Toms-MacBook-Air.local (5552)] INFO : Application: development
+[01/28/14 15:14:02 +0000 Toms-MacBook-Air.local (5552)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'development'
+[01/28/14 15:14:02 +0000 Toms-MacBook-Air.local (5552)] INFO : Installing Net instrumentation
+[01/28/14 15:14:02 +0000 Toms-MacBook-Air.local (5552)] INFO : Installing Sinatra instrumentation
+[01/28/14 15:14:02 +0000 Toms-MacBook-Air.local (5552)] INFO : Installing deferred Rack instrumentation
+[01/28/14 15:14:02 +0000 Toms-MacBook-Air.local (5552)] INFO : Finished instrumentation
+[01/28/14 15:14:02 +0000 Toms-MacBook-Air.local (5552)] INFO : Doing deferred dependency-detection before Rack startup
+[01/28/14 15:14:05 +0000 Toms-MacBook-Air.local (5557)] INFO : Starting the New Relic agent in "development" environment.
+[01/28/14 15:14:05 +0000 Toms-MacBook-Air.local (5557)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[01/28/14 15:14:05 +0000 Toms-MacBook-Air.local (5557)] INFO : Reading configuration from 
+[01/28/14 15:14:05 +0000 Toms-MacBook-Air.local (5557)] ERROR : Unable to read configuration file : Is a directory - /Users/tomleman/dev/redress
+[01/28/14 15:14:05 +0000 Toms-MacBook-Air.local (5557)] INFO : Enabling the Request Sampler.
+[01/28/14 15:14:05 +0000 Toms-MacBook-Air.local (5557)] INFO : Environment: development
+[01/28/14 15:14:05 +0000 Toms-MacBook-Air.local (5557)] INFO : Dispatcher: webrick
+[01/28/14 15:14:05 +0000 Toms-MacBook-Air.local (5557)] INFO : Application: development
+[01/28/14 15:14:05 +0000 Toms-MacBook-Air.local (5557)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'development'
+[01/28/14 15:14:05 +0000 Toms-MacBook-Air.local (5557)] INFO : Installing Net instrumentation
+[01/28/14 15:14:05 +0000 Toms-MacBook-Air.local (5557)] INFO : Installing Sinatra instrumentation
+[01/28/14 15:14:05 +0000 Toms-MacBook-Air.local (5557)] INFO : Installing deferred Rack instrumentation
+[01/28/14 15:14:05 +0000 Toms-MacBook-Air.local (5557)] INFO : Finished instrumentation
+[01/28/14 15:14:05 +0000 Toms-MacBook-Air.local (5557)] INFO : Doing deferred dependency-detection before Rack startup
+[01/28/14 15:17:01 +0000 Toms-MacBook-Air.local (5568)] INFO : Starting the New Relic agent in "development" environment.
+[01/28/14 15:17:01 +0000 Toms-MacBook-Air.local (5568)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[01/28/14 15:17:01 +0000 Toms-MacBook-Air.local (5568)] INFO : Reading configuration from 
+[01/28/14 15:17:01 +0000 Toms-MacBook-Air.local (5568)] ERROR : Unable to read configuration file : Is a directory - /Users/tomleman/dev/redress
+[01/28/14 15:17:01 +0000 Toms-MacBook-Air.local (5568)] INFO : Enabling the Request Sampler.
+[01/28/14 15:17:01 +0000 Toms-MacBook-Air.local (5568)] INFO : Environment: development
+[01/28/14 15:17:01 +0000 Toms-MacBook-Air.local (5568)] INFO : Dispatcher: webrick
+[01/28/14 15:17:01 +0000 Toms-MacBook-Air.local (5568)] INFO : Application: development
+[01/28/14 15:17:01 +0000 Toms-MacBook-Air.local (5568)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'development'
+[01/28/14 15:17:01 +0000 Toms-MacBook-Air.local (5568)] INFO : Installing Net instrumentation
+[01/28/14 15:17:01 +0000 Toms-MacBook-Air.local (5568)] INFO : Installing Sinatra instrumentation
+[01/28/14 15:17:01 +0000 Toms-MacBook-Air.local (5568)] INFO : Installing deferred Rack instrumentation
+[01/28/14 15:17:01 +0000 Toms-MacBook-Air.local (5568)] INFO : Finished instrumentation
+[01/28/14 15:17:01 +0000 Toms-MacBook-Air.local (5568)] INFO : Doing deferred dependency-detection before Rack startup
+[01/28/14 15:18:25 +0000 Toms-MacBook-Air.local (5575)] INFO : Starting the New Relic agent in "development" environment.
+[01/28/14 15:18:25 +0000 Toms-MacBook-Air.local (5575)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[01/28/14 15:18:25 +0000 Toms-MacBook-Air.local (5575)] INFO : Reading configuration from 
+[01/28/14 15:18:25 +0000 Toms-MacBook-Air.local (5575)] ERROR : Unable to read configuration file : Is a directory - /Users/tomleman/dev/redress
+[01/28/14 15:18:25 +0000 Toms-MacBook-Air.local (5575)] INFO : Enabling the Request Sampler.
+[01/28/14 15:18:25 +0000 Toms-MacBook-Air.local (5575)] INFO : Environment: development
+[01/28/14 15:18:25 +0000 Toms-MacBook-Air.local (5575)] INFO : Dispatcher: webrick
+[01/28/14 15:18:25 +0000 Toms-MacBook-Air.local (5575)] INFO : Application: development
+[01/28/14 15:18:25 +0000 Toms-MacBook-Air.local (5575)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'development'
+[01/28/14 15:18:25 +0000 Toms-MacBook-Air.local (5575)] INFO : Installing Net instrumentation
+[01/28/14 15:18:25 +0000 Toms-MacBook-Air.local (5575)] INFO : Installing Sinatra instrumentation
+[01/28/14 15:18:25 +0000 Toms-MacBook-Air.local (5575)] INFO : Installing deferred Rack instrumentation
+[01/28/14 15:18:25 +0000 Toms-MacBook-Air.local (5575)] INFO : Finished instrumentation
+[01/28/14 15:18:25 +0000 Toms-MacBook-Air.local (5575)] INFO : Doing deferred dependency-detection before Rack startup
+[01/28/14 15:19:01 +0000 Toms-MacBook-Air.local (5581)] INFO : Starting the New Relic agent in "development" environment.
+[01/28/14 15:19:01 +0000 Toms-MacBook-Air.local (5581)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[01/28/14 15:19:01 +0000 Toms-MacBook-Air.local (5581)] INFO : Reading configuration from 
+[01/28/14 15:19:01 +0000 Toms-MacBook-Air.local (5581)] ERROR : Unable to read configuration file : Is a directory - /Users/tomleman/dev/redress
+[01/28/14 15:19:01 +0000 Toms-MacBook-Air.local (5581)] INFO : Enabling the Request Sampler.
+[01/28/14 15:19:01 +0000 Toms-MacBook-Air.local (5581)] INFO : Environment: development
+[01/28/14 15:19:01 +0000 Toms-MacBook-Air.local (5581)] INFO : Dispatcher: webrick
+[01/28/14 15:19:01 +0000 Toms-MacBook-Air.local (5581)] INFO : Application: development
+[01/28/14 15:19:01 +0000 Toms-MacBook-Air.local (5581)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'development'
+[01/28/14 15:19:01 +0000 Toms-MacBook-Air.local (5581)] INFO : Installing Net instrumentation
+[01/28/14 15:19:01 +0000 Toms-MacBook-Air.local (5581)] INFO : Installing Sinatra instrumentation
+[01/28/14 15:19:01 +0000 Toms-MacBook-Air.local (5581)] INFO : Installing deferred Rack instrumentation
+[01/28/14 15:19:01 +0000 Toms-MacBook-Air.local (5581)] INFO : Finished instrumentation
+[01/28/14 15:19:01 +0000 Toms-MacBook-Air.local (5581)] INFO : Doing deferred dependency-detection before Rack startup
+[01/28/14 15:21:44 +0000 Toms-MacBook-Air.local (5591)] INFO : Starting the New Relic agent in "development" environment.
+[01/28/14 15:21:44 +0000 Toms-MacBook-Air.local (5591)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[01/28/14 15:21:44 +0000 Toms-MacBook-Air.local (5591)] INFO : Reading configuration from 
+[01/28/14 15:21:44 +0000 Toms-MacBook-Air.local (5591)] ERROR : Unable to read configuration file : Is a directory - /Users/tomleman/dev/redress
+[01/28/14 15:21:44 +0000 Toms-MacBook-Air.local (5591)] INFO : Enabling the Request Sampler.
+[01/28/14 15:21:44 +0000 Toms-MacBook-Air.local (5591)] INFO : Environment: development
+[01/28/14 15:21:44 +0000 Toms-MacBook-Air.local (5591)] INFO : Dispatcher: webrick
+[01/28/14 15:21:44 +0000 Toms-MacBook-Air.local (5591)] INFO : Application: development
+[01/28/14 15:21:44 +0000 Toms-MacBook-Air.local (5591)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'development'
+[01/28/14 15:21:44 +0000 Toms-MacBook-Air.local (5591)] INFO : Installing Net instrumentation
+[01/28/14 15:21:44 +0000 Toms-MacBook-Air.local (5591)] INFO : Installing Sinatra instrumentation
+[01/28/14 15:21:44 +0000 Toms-MacBook-Air.local (5591)] INFO : Installing deferred Rack instrumentation
+[01/28/14 15:21:44 +0000 Toms-MacBook-Air.local (5591)] INFO : Finished instrumentation
+[01/28/14 15:21:44 +0000 Toms-MacBook-Air.local (5591)] INFO : Doing deferred dependency-detection before Rack startup
+[01/28/14 15:22:18 +0000 Toms-MacBook-Air.local (5595)] INFO : Starting the New Relic agent in "development" environment.
+[01/28/14 15:22:18 +0000 Toms-MacBook-Air.local (5595)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[01/28/14 15:22:18 +0000 Toms-MacBook-Air.local (5595)] INFO : Reading configuration from 
+[01/28/14 15:22:18 +0000 Toms-MacBook-Air.local (5595)] ERROR : Unable to read configuration file : Is a directory - /Users/tomleman/dev/redress
+[01/28/14 15:22:18 +0000 Toms-MacBook-Air.local (5595)] INFO : Enabling the Request Sampler.
+[01/28/14 15:22:18 +0000 Toms-MacBook-Air.local (5595)] INFO : Environment: development
+[01/28/14 15:22:18 +0000 Toms-MacBook-Air.local (5595)] INFO : Dispatcher: webrick
+[01/28/14 15:22:18 +0000 Toms-MacBook-Air.local (5595)] INFO : Application: development
+[01/28/14 15:22:18 +0000 Toms-MacBook-Air.local (5595)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'development'
+[01/28/14 15:22:18 +0000 Toms-MacBook-Air.local (5595)] INFO : Installing Net instrumentation
+[01/28/14 15:22:18 +0000 Toms-MacBook-Air.local (5595)] INFO : Installing Sinatra instrumentation
+[01/28/14 15:22:18 +0000 Toms-MacBook-Air.local (5595)] INFO : Installing deferred Rack instrumentation
+[01/28/14 15:22:18 +0000 Toms-MacBook-Air.local (5595)] INFO : Finished instrumentation
+[01/28/14 15:22:18 +0000 Toms-MacBook-Air.local (5595)] INFO : Doing deferred dependency-detection before Rack startup
+[01/28/14 15:22:23 +0000 Toms-MacBook-Air.local (5599)] INFO : Starting the New Relic agent in "development" environment.
+[01/28/14 15:22:23 +0000 Toms-MacBook-Air.local (5599)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[01/28/14 15:22:23 +0000 Toms-MacBook-Air.local (5599)] INFO : Reading configuration from 
+[01/28/14 15:22:23 +0000 Toms-MacBook-Air.local (5599)] ERROR : Unable to read configuration file : Is a directory - /Users/tomleman/dev/redress
+[01/28/14 15:22:23 +0000 Toms-MacBook-Air.local (5599)] INFO : Enabling the Request Sampler.
+[01/28/14 15:22:23 +0000 Toms-MacBook-Air.local (5599)] INFO : Environment: development
+[01/28/14 15:22:23 +0000 Toms-MacBook-Air.local (5599)] INFO : Dispatcher: webrick
+[01/28/14 15:22:23 +0000 Toms-MacBook-Air.local (5599)] INFO : Application: development
+[01/28/14 15:22:23 +0000 Toms-MacBook-Air.local (5599)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'development'
+[01/28/14 15:22:23 +0000 Toms-MacBook-Air.local (5599)] INFO : Installing Net instrumentation
+[01/28/14 15:22:23 +0000 Toms-MacBook-Air.local (5599)] INFO : Installing Sinatra instrumentation
+[01/28/14 15:22:23 +0000 Toms-MacBook-Air.local (5599)] INFO : Installing deferred Rack instrumentation
+[01/28/14 15:22:23 +0000 Toms-MacBook-Air.local (5599)] INFO : Finished instrumentation
+[01/28/14 15:22:23 +0000 Toms-MacBook-Air.local (5599)] INFO : Doing deferred dependency-detection before Rack startup
+[01/28/14 15:23:03 +0000 Toms-MacBook-Air.local (5603)] INFO : Starting the New Relic agent in "development" environment.
+[01/28/14 15:23:03 +0000 Toms-MacBook-Air.local (5603)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[01/28/14 15:23:03 +0000 Toms-MacBook-Air.local (5603)] INFO : Reading configuration from 
+[01/28/14 15:23:03 +0000 Toms-MacBook-Air.local (5603)] ERROR : Unable to read configuration file : Is a directory - /Users/tomleman/dev/redress
+[01/28/14 15:23:03 +0000 Toms-MacBook-Air.local (5603)] INFO : Enabling the Request Sampler.
+[01/28/14 15:23:03 +0000 Toms-MacBook-Air.local (5603)] INFO : Environment: development
+[01/28/14 15:23:03 +0000 Toms-MacBook-Air.local (5603)] INFO : Dispatcher: webrick
+[01/28/14 15:23:03 +0000 Toms-MacBook-Air.local (5603)] INFO : Application: development
+[01/28/14 15:23:03 +0000 Toms-MacBook-Air.local (5603)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'development'
+[01/28/14 15:23:03 +0000 Toms-MacBook-Air.local (5603)] INFO : Installing Net instrumentation
+[01/28/14 15:23:03 +0000 Toms-MacBook-Air.local (5603)] INFO : Installing Sinatra instrumentation
+[01/28/14 15:23:03 +0000 Toms-MacBook-Air.local (5603)] INFO : Installing deferred Rack instrumentation
+[01/28/14 15:23:03 +0000 Toms-MacBook-Air.local (5603)] INFO : Finished instrumentation
+[01/28/14 15:23:03 +0000 Toms-MacBook-Air.local (5603)] INFO : Doing deferred dependency-detection before Rack startup
+[01/28/14 15:23:22 +0000 Toms-MacBook-Air.local (5607)] INFO : Starting the New Relic agent in "development" environment.
+[01/28/14 15:23:22 +0000 Toms-MacBook-Air.local (5607)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[01/28/14 15:23:22 +0000 Toms-MacBook-Air.local (5607)] INFO : Reading configuration from 
+[01/28/14 15:23:22 +0000 Toms-MacBook-Air.local (5607)] ERROR : Unable to read configuration file : Is a directory - /Users/tomleman/dev/redress
+[01/28/14 15:23:22 +0000 Toms-MacBook-Air.local (5607)] INFO : Enabling the Request Sampler.
+[01/28/14 15:23:22 +0000 Toms-MacBook-Air.local (5607)] INFO : Environment: development
+[01/28/14 15:23:22 +0000 Toms-MacBook-Air.local (5607)] INFO : Dispatcher: webrick
+[01/28/14 15:23:22 +0000 Toms-MacBook-Air.local (5607)] INFO : Application: development
+[01/28/14 15:23:22 +0000 Toms-MacBook-Air.local (5607)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'development'
+[01/28/14 15:23:22 +0000 Toms-MacBook-Air.local (5607)] INFO : Installing Net instrumentation
+[01/28/14 15:23:22 +0000 Toms-MacBook-Air.local (5607)] INFO : Installing Sinatra instrumentation
+[01/28/14 15:23:22 +0000 Toms-MacBook-Air.local (5607)] INFO : Installing deferred Rack instrumentation
+[01/28/14 15:23:22 +0000 Toms-MacBook-Air.local (5607)] INFO : Finished instrumentation
+[01/28/14 15:23:22 +0000 Toms-MacBook-Air.local (5607)] INFO : Doing deferred dependency-detection before Rack startup
+[01/28/14 15:24:59 +0000 Toms-MacBook-Air.local (5618)] INFO : Starting the New Relic agent in "development" environment.
+[01/28/14 15:24:59 +0000 Toms-MacBook-Air.local (5618)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[01/28/14 15:24:59 +0000 Toms-MacBook-Air.local (5618)] INFO : Reading configuration from 
+[01/28/14 15:24:59 +0000 Toms-MacBook-Air.local (5618)] ERROR : Unable to read configuration file : Is a directory - /Users/tomleman/dev/redress
+[01/28/14 15:24:59 +0000 Toms-MacBook-Air.local (5618)] INFO : Enabling the Request Sampler.
+[01/28/14 15:24:59 +0000 Toms-MacBook-Air.local (5618)] INFO : Environment: development
+[01/28/14 15:24:59 +0000 Toms-MacBook-Air.local (5618)] INFO : Dispatcher: webrick
+[01/28/14 15:24:59 +0000 Toms-MacBook-Air.local (5618)] INFO : Application: development
+[01/28/14 15:24:59 +0000 Toms-MacBook-Air.local (5618)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'development'
+[01/28/14 15:24:59 +0000 Toms-MacBook-Air.local (5618)] INFO : Installing Net instrumentation
+[01/28/14 15:24:59 +0000 Toms-MacBook-Air.local (5618)] INFO : Installing Sinatra instrumentation
+[01/28/14 15:24:59 +0000 Toms-MacBook-Air.local (5618)] INFO : Installing deferred Rack instrumentation
+[01/28/14 15:24:59 +0000 Toms-MacBook-Air.local (5618)] INFO : Finished instrumentation
+[01/28/14 15:24:59 +0000 Toms-MacBook-Air.local (5618)] INFO : Doing deferred dependency-detection before Rack startup
+[01/28/14 15:25:11 +0000 Toms-MacBook-Air.local (5621)] INFO : Starting the New Relic agent in "development" environment.
+[01/28/14 15:25:11 +0000 Toms-MacBook-Air.local (5621)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[01/28/14 15:25:11 +0000 Toms-MacBook-Air.local (5621)] INFO : Reading configuration from 
+[01/28/14 15:25:11 +0000 Toms-MacBook-Air.local (5621)] ERROR : Unable to read configuration file : Is a directory - /Users/tomleman/dev/redress
+[01/28/14 15:25:11 +0000 Toms-MacBook-Air.local (5621)] INFO : Enabling the Request Sampler.
+[01/28/14 15:25:11 +0000 Toms-MacBook-Air.local (5621)] INFO : Environment: development
+[01/28/14 15:25:11 +0000 Toms-MacBook-Air.local (5621)] INFO : Dispatcher: webrick
+[01/28/14 15:25:11 +0000 Toms-MacBook-Air.local (5621)] INFO : Application: development
+[01/28/14 15:25:11 +0000 Toms-MacBook-Air.local (5621)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'development'
+[01/28/14 15:25:11 +0000 Toms-MacBook-Air.local (5621)] INFO : Installing Net instrumentation
+[01/28/14 15:25:11 +0000 Toms-MacBook-Air.local (5621)] INFO : Installing Sinatra instrumentation
+[01/28/14 15:25:11 +0000 Toms-MacBook-Air.local (5621)] INFO : Installing deferred Rack instrumentation
+[01/28/14 15:25:11 +0000 Toms-MacBook-Air.local (5621)] INFO : Finished instrumentation
+[01/28/14 15:25:11 +0000 Toms-MacBook-Air.local (5621)] INFO : Doing deferred dependency-detection before Rack startup
+[01/28/14 15:26:12 +0000 Toms-MacBook-Air.local (5626)] INFO : Starting the New Relic agent in "development" environment.
+[01/28/14 15:26:12 +0000 Toms-MacBook-Air.local (5626)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[01/28/14 15:26:12 +0000 Toms-MacBook-Air.local (5626)] INFO : Reading configuration from 
+[01/28/14 15:26:12 +0000 Toms-MacBook-Air.local (5626)] ERROR : Unable to read configuration file : Is a directory - /Users/tomleman/dev/redress
+[01/28/14 15:26:12 +0000 Toms-MacBook-Air.local (5626)] INFO : Enabling the Request Sampler.
+[01/28/14 15:26:12 +0000 Toms-MacBook-Air.local (5626)] INFO : Environment: development
+[01/28/14 15:26:12 +0000 Toms-MacBook-Air.local (5626)] INFO : Dispatcher: webrick
+[01/28/14 15:26:12 +0000 Toms-MacBook-Air.local (5626)] INFO : Application: development
+[01/28/14 15:26:12 +0000 Toms-MacBook-Air.local (5626)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'development'
+[01/28/14 15:26:12 +0000 Toms-MacBook-Air.local (5626)] INFO : Installing Net instrumentation
+[01/28/14 15:26:12 +0000 Toms-MacBook-Air.local (5626)] INFO : Installing Sinatra instrumentation
+[01/28/14 15:26:12 +0000 Toms-MacBook-Air.local (5626)] INFO : Installing deferred Rack instrumentation
+[01/28/14 15:26:12 +0000 Toms-MacBook-Air.local (5626)] INFO : Finished instrumentation
+[01/28/14 15:26:12 +0000 Toms-MacBook-Air.local (5626)] INFO : Doing deferred dependency-detection before Rack startup
+[01/28/14 15:26:20 +0000 Toms-MacBook-Air.local (5630)] INFO : Starting the New Relic agent in "development" environment.
+[01/28/14 15:26:20 +0000 Toms-MacBook-Air.local (5630)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[01/28/14 15:26:20 +0000 Toms-MacBook-Air.local (5630)] INFO : Reading configuration from 
+[01/28/14 15:26:20 +0000 Toms-MacBook-Air.local (5630)] ERROR : Unable to read configuration file : Is a directory - /Users/tomleman/dev/redress
+[01/28/14 15:26:20 +0000 Toms-MacBook-Air.local (5630)] INFO : Enabling the Request Sampler.
+[01/28/14 15:26:20 +0000 Toms-MacBook-Air.local (5630)] INFO : Environment: development
+[01/28/14 15:26:20 +0000 Toms-MacBook-Air.local (5630)] INFO : Dispatcher: webrick
+[01/28/14 15:26:20 +0000 Toms-MacBook-Air.local (5630)] INFO : Application: development
+[01/28/14 15:26:20 +0000 Toms-MacBook-Air.local (5630)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'development'
+[01/28/14 15:26:20 +0000 Toms-MacBook-Air.local (5630)] INFO : Installing Net instrumentation
+[01/28/14 15:26:20 +0000 Toms-MacBook-Air.local (5630)] INFO : Installing Sinatra instrumentation
+[01/28/14 15:26:20 +0000 Toms-MacBook-Air.local (5630)] INFO : Installing deferred Rack instrumentation
+[01/28/14 15:26:20 +0000 Toms-MacBook-Air.local (5630)] INFO : Finished instrumentation
+[01/28/14 15:26:20 +0000 Toms-MacBook-Air.local (5630)] INFO : Doing deferred dependency-detection before Rack startup
+[01/28/14 15:26:25 +0000 Toms-MacBook-Air.local (5633)] INFO : Starting the New Relic agent in "development" environment.
+[01/28/14 15:26:25 +0000 Toms-MacBook-Air.local (5633)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[01/28/14 15:26:25 +0000 Toms-MacBook-Air.local (5633)] INFO : Reading configuration from 
+[01/28/14 15:26:25 +0000 Toms-MacBook-Air.local (5633)] ERROR : Unable to read configuration file : Is a directory - /Users/tomleman/dev/redress
+[01/28/14 15:26:25 +0000 Toms-MacBook-Air.local (5633)] INFO : Enabling the Request Sampler.
+[01/28/14 15:26:25 +0000 Toms-MacBook-Air.local (5633)] INFO : Environment: development
+[01/28/14 15:26:25 +0000 Toms-MacBook-Air.local (5633)] INFO : Dispatcher: webrick
+[01/28/14 15:26:25 +0000 Toms-MacBook-Air.local (5633)] INFO : Application: development
+[01/28/14 15:26:25 +0000 Toms-MacBook-Air.local (5633)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'development'
+[01/28/14 15:26:25 +0000 Toms-MacBook-Air.local (5633)] INFO : Installing Net instrumentation
+[01/28/14 15:26:25 +0000 Toms-MacBook-Air.local (5633)] INFO : Installing Sinatra instrumentation
+[01/28/14 15:26:25 +0000 Toms-MacBook-Air.local (5633)] INFO : Installing deferred Rack instrumentation
+[01/28/14 15:26:25 +0000 Toms-MacBook-Air.local (5633)] INFO : Finished instrumentation
+[01/28/14 15:26:25 +0000 Toms-MacBook-Air.local (5633)] INFO : Doing deferred dependency-detection before Rack startup
+[01/28/14 15:26:51 +0000 Toms-MacBook-Air.local (5639)] INFO : Starting the New Relic agent in "development" environment.
+[01/28/14 15:26:51 +0000 Toms-MacBook-Air.local (5639)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[01/28/14 15:26:51 +0000 Toms-MacBook-Air.local (5639)] INFO : Reading configuration from 
+[01/28/14 15:26:51 +0000 Toms-MacBook-Air.local (5639)] ERROR : Unable to read configuration file : Is a directory - /Users/tomleman/dev/redress
+[01/28/14 15:26:51 +0000 Toms-MacBook-Air.local (5639)] INFO : Enabling the Request Sampler.
+[01/28/14 15:26:51 +0000 Toms-MacBook-Air.local (5639)] INFO : Environment: development
+[01/28/14 15:26:51 +0000 Toms-MacBook-Air.local (5639)] INFO : Dispatcher: webrick
+[01/28/14 15:26:51 +0000 Toms-MacBook-Air.local (5639)] INFO : Application: development
+[01/28/14 15:26:51 +0000 Toms-MacBook-Air.local (5639)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'development'
+[01/28/14 15:26:51 +0000 Toms-MacBook-Air.local (5639)] INFO : Installing Net instrumentation
+[01/28/14 15:26:51 +0000 Toms-MacBook-Air.local (5639)] INFO : Installing Sinatra instrumentation
+[01/28/14 15:26:51 +0000 Toms-MacBook-Air.local (5639)] INFO : Installing deferred Rack instrumentation
+[01/28/14 15:26:51 +0000 Toms-MacBook-Air.local (5639)] INFO : Finished instrumentation
+[01/28/14 15:26:51 +0000 Toms-MacBook-Air.local (5639)] INFO : Doing deferred dependency-detection before Rack startup
+[01/28/14 15:27:00 +0000 Toms-MacBook-Air.local (5642)] INFO : Starting the New Relic agent in "development" environment.
+[01/28/14 15:27:00 +0000 Toms-MacBook-Air.local (5642)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[01/28/14 15:27:00 +0000 Toms-MacBook-Air.local (5642)] INFO : Reading configuration from 
+[01/28/14 15:27:00 +0000 Toms-MacBook-Air.local (5642)] ERROR : Unable to read configuration file : Is a directory - /Users/tomleman/dev/redress
+[01/28/14 15:27:00 +0000 Toms-MacBook-Air.local (5642)] INFO : Enabling the Request Sampler.
+[01/28/14 15:27:00 +0000 Toms-MacBook-Air.local (5642)] INFO : Environment: development
+[01/28/14 15:27:00 +0000 Toms-MacBook-Air.local (5642)] INFO : Dispatcher: webrick
+[01/28/14 15:27:00 +0000 Toms-MacBook-Air.local (5642)] INFO : Application: development
+[01/28/14 15:27:00 +0000 Toms-MacBook-Air.local (5642)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'development'
+[01/28/14 15:27:00 +0000 Toms-MacBook-Air.local (5642)] INFO : Installing Net instrumentation
+[01/28/14 15:27:00 +0000 Toms-MacBook-Air.local (5642)] INFO : Installing Sinatra instrumentation
+[01/28/14 15:27:00 +0000 Toms-MacBook-Air.local (5642)] INFO : Installing deferred Rack instrumentation
+[01/28/14 15:27:00 +0000 Toms-MacBook-Air.local (5642)] INFO : Finished instrumentation
+[01/28/14 15:27:00 +0000 Toms-MacBook-Air.local (5642)] INFO : Doing deferred dependency-detection before Rack startup
+[01/28/14 15:27:40 +0000 Toms-MacBook-Air.local (5646)] INFO : Starting the New Relic agent in "development" environment.
+[01/28/14 15:27:40 +0000 Toms-MacBook-Air.local (5646)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[01/28/14 15:27:40 +0000 Toms-MacBook-Air.local (5646)] INFO : Reading configuration from 
+[01/28/14 15:27:40 +0000 Toms-MacBook-Air.local (5646)] ERROR : Unable to read configuration file : Is a directory - /Users/tomleman/dev/redress
+[01/28/14 15:27:40 +0000 Toms-MacBook-Air.local (5646)] INFO : Enabling the Request Sampler.
+[01/28/14 15:27:40 +0000 Toms-MacBook-Air.local (5646)] INFO : Environment: development
+[01/28/14 15:27:40 +0000 Toms-MacBook-Air.local (5646)] INFO : Dispatcher: webrick
+[01/28/14 15:27:40 +0000 Toms-MacBook-Air.local (5646)] INFO : Application: development
+[01/28/14 15:27:40 +0000 Toms-MacBook-Air.local (5646)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'development'
+[01/28/14 15:27:40 +0000 Toms-MacBook-Air.local (5646)] INFO : Installing Net instrumentation
+[01/28/14 15:27:40 +0000 Toms-MacBook-Air.local (5646)] INFO : Installing Sinatra instrumentation
+[01/28/14 15:27:40 +0000 Toms-MacBook-Air.local (5646)] INFO : Installing deferred Rack instrumentation
+[01/28/14 15:27:40 +0000 Toms-MacBook-Air.local (5646)] INFO : Finished instrumentation
+[01/28/14 15:27:40 +0000 Toms-MacBook-Air.local (5646)] INFO : Doing deferred dependency-detection before Rack startup
+[01/28/14 15:30:54 +0000 Toms-MacBook-Air.local (5653)] INFO : Starting the New Relic agent in "development" environment.
+[01/28/14 15:30:54 +0000 Toms-MacBook-Air.local (5653)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[01/28/14 15:30:54 +0000 Toms-MacBook-Air.local (5653)] INFO : Reading configuration from 
+[01/28/14 15:30:54 +0000 Toms-MacBook-Air.local (5653)] ERROR : Unable to read configuration file : Is a directory - /Users/tomleman/dev/redress
+[01/28/14 15:30:54 +0000 Toms-MacBook-Air.local (5653)] INFO : Enabling the Request Sampler.
+[01/28/14 15:30:54 +0000 Toms-MacBook-Air.local (5653)] INFO : Environment: development
+[01/28/14 15:30:54 +0000 Toms-MacBook-Air.local (5653)] INFO : Dispatcher: webrick
+[01/28/14 15:30:54 +0000 Toms-MacBook-Air.local (5653)] INFO : Application: development
+[01/28/14 15:30:54 +0000 Toms-MacBook-Air.local (5653)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'development'
+[01/28/14 15:30:54 +0000 Toms-MacBook-Air.local (5653)] INFO : Installing Net instrumentation
+[01/28/14 15:30:54 +0000 Toms-MacBook-Air.local (5653)] INFO : Installing Sinatra instrumentation
+[01/28/14 15:30:54 +0000 Toms-MacBook-Air.local (5653)] INFO : Installing deferred Rack instrumentation
+[01/28/14 15:30:54 +0000 Toms-MacBook-Air.local (5653)] INFO : Finished instrumentation
+[01/28/14 15:30:54 +0000 Toms-MacBook-Air.local (5653)] INFO : Doing deferred dependency-detection before Rack startup
+[01/28/14 15:31:19 +0000 Toms-MacBook-Air.local (5656)] INFO : Starting the New Relic agent in "development" environment.
+[01/28/14 15:31:19 +0000 Toms-MacBook-Air.local (5656)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[01/28/14 15:31:19 +0000 Toms-MacBook-Air.local (5656)] INFO : Reading configuration from 
+[01/28/14 15:31:19 +0000 Toms-MacBook-Air.local (5656)] ERROR : Unable to read configuration file : Is a directory - /Users/tomleman/dev/redress
+[01/28/14 15:31:19 +0000 Toms-MacBook-Air.local (5656)] INFO : Enabling the Request Sampler.
+[01/28/14 15:31:19 +0000 Toms-MacBook-Air.local (5656)] INFO : Environment: development
+[01/28/14 15:31:19 +0000 Toms-MacBook-Air.local (5656)] INFO : Dispatcher: webrick
+[01/28/14 15:31:19 +0000 Toms-MacBook-Air.local (5656)] INFO : Application: development
+[01/28/14 15:31:19 +0000 Toms-MacBook-Air.local (5656)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'development'
+[01/28/14 15:31:19 +0000 Toms-MacBook-Air.local (5656)] INFO : Installing Net instrumentation
+[01/28/14 15:31:19 +0000 Toms-MacBook-Air.local (5656)] INFO : Installing Sinatra instrumentation
+[01/28/14 15:31:19 +0000 Toms-MacBook-Air.local (5656)] INFO : Installing deferred Rack instrumentation
+[01/28/14 15:31:19 +0000 Toms-MacBook-Air.local (5656)] INFO : Finished instrumentation
+[01/28/14 15:31:19 +0000 Toms-MacBook-Air.local (5656)] INFO : Doing deferred dependency-detection before Rack startup
