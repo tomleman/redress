@@ -1,64 +1,104 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>re:dress Contemporary Clothes Agency</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link href="css/bootstrap.css" rel="stylesheet" media="screen">
-  <link href="css/bootstrap-theme.css" rel="stylesheet" media="screen">
-  <link href="css/bootstrap-overrides.css" rel="stylesheet" media="screen">
-  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script> 
-  <script src="js/bootstrap.js"></script>
+    <title>re:dress Contemporary Clothes Agency</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="css/bootstrap.css" rel="stylesheet" media="screen">
+    <link href="css/bootstrap-theme.css" rel="stylesheet" media="screen">
+    <link href="css/bootstrap-overrides.css" rel="stylesheet" media="screen">
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script> 
+    <script src="js/bootstrap.js"></script>
 </head>
 <body>
-  <nav class="navbar navbar-default" role='navigation'>
-      <div class="navbar-header">
-        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
-          <span class="sr-only">Toggle navigation</span>
-          <span class="icon-bar"></span>
-          <span class="icon-bar"></span>
-          <span class="icon-bar"></span>
-        </button>
-        <a class="navbar-brand" href="/"><img class='mobile-head' src='img/logo.png'></a>
-      </div>
-      <div class='collapse navbar-collapse' id="bs-example-navbar-collapse-1">
-        <ul class="nav navbar-nav">
-          <li><a href="/">HOME</a></li>
-          <li><a href="/about">ABOUT US</a></li>
-          <li><a href="/terms">TERMS & CONDITIONS</a></li>
-          <li><a href="/contact">CONTACT</a></li>
-        </ul>
-      </div>
-  </nav>
-  <div class='container'>
-    <%= yield %>
-  </div>
-  <footer>
-  <div class='container'>
-    <div class='row'>
-      <div class='col-md-4'>
-        <h3>Opening Hours</h3>
-        <p>Monday : 10:00am - 4:00pm</p>
-        <p>Tuesday : 10:00am - 4:00pm</p>
-        <p>Wednesday : 10:00am - 4:00pm</p>
-        <p>Thursday : 10:00am - 4:00pm</p>
-        <p>Friday : 10:00am - 4:00pm</p>
-        <p>Saturday : 10:00am - 4:00pm</p>
-        <p>Sunday : Closed</p>
-      </div>
-      <div class='col-md-4'>
-        <h3>Address</h3>
-        <p>re:dress Contemporary Clothes Agency</p>
-        <p>10a Romsey Road</p>
-        <p>Winchester</p>
-        <p>Hampshire</p>
-        <p>SO23 8TP</p>
-        </br>
-        <a href='/contact'<h4>Find us on a map</h4></a>
-      </div>
-      <div class='col-md-4'>
-      </div>
-    </div>
-  </div>
-  </footer>
+<header>		
+	<a href="/"><img class='logo' src='img/logo.png'></a>
+	<h2 class='tag'>contemporary clothes agency</h2>
+    <nav class="navbar navbar-default" role='navigation'>
+		<div class="navbar-header">
+			<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+	        	<span class="sr-only">Toggle navigation</span>
+			    <span class="icon-bar"></span>
+			    <span class="icon-bar"></span>
+			    <span class="icon-bar"></span>
+			</button>
+	    </div>
+		<div class='collapse navbar-collapse' id="bs-example-navbar-collapse-1">
+			<ul class="nav navbar-nav">
+			    <li><a href="/">HOME</a></li>
+			    <li><a href="/about">ABOUT US</a></li>
+			    <li><a href="/terms">TERMS &amp; CONDITIONS</a></li>
+			    <li><a href="/contact">CONTACT</a></li>
+			</ul>
+	    </div>
+	</nav>
+</header>
+<div class='container main'>
+	<div class='row'>
+		<div class='col-md-12'>
+	    	<img class='shop' src='img/shop_crop2.png'>
+	    </div>
+	</div>
+	<div class='row'>
+		<div class='col-md-6 about'>
+			<h3>About re:dress</h3>
+			<p>re:dress was opened in March 2003 by Lindsay Leman.</p>
+			<p>Her vision was quite simple, she wanted to provide a second hand clothes shop like no other.</p>
+			<p>The result of that is re:dress. She caters to your casual, easy to wear wardrobe. The great, good and humble labels all come here, from Topshop to Armani. There is no label snobbery, but Lindsay's eagle eye makes sure all the clothes in the shop are immaculate and stylish.</p>
+			<p>She has always felt that 'Dress Agencies' have a reputation for dressing the mother of the bride, party dresses and more formal wear, but instead at re:dress you can buy your designer jeans, tunics, cashmere, casual tops, jackets and accessories etc. Everything we wear every day!</p>
+			<h3>Services Available</h3>
+			<ul>
+				<li>Personal Shopping</li>
+				<li>Help to de-clutter your wardrobe</li>
+				<li>Home visits by arrangement</li>
+				<li>Re-styling</li>
+			</ul>
+		</div>
+		<div class='col-md-6'>
+			<img class='lindsay' src='img/lindsay.jpg'>
+		</div>
+	</div>
+	<div class='row'>
+		<div class='col-md-12 terms'>
+			<h2>Terms & Conditions</h2>
+			<ol class='terms'>
+				<li>Goods left for sale are left at owner's risk. re:dress can accept no responsibility for articles left on the premises.</li>
+				<li>Goods are sold on a commission basis of 60% (Shop) - 40% (Client).</li>
+				<li>Goods are kept in the shop for six weeks. At certain times of the year re:dress will have to stop taking in further items for sale and it is advisable to ring the ship in advance to check the situation.</li>
+				<li>Goods not collected by the date they are due out of the shop may be sent to charity.</li>
+				<li>Goods must be clean and pressed, and where possible show a dry cleaning ticket.</li>
+				<li>Goods may be reduced in price at the discretion of re:dress</li>
+				<li>All monies for garments sold must be collection within 3 months of the date they were left in the shop.</li>
+				<li>A 'Goods-Left Receipt' must be presented at re:dress when money is to be paid out as proof of ownership.</li>
+				<li>Goods cannot be exchanged after purchase and no credit notes will be given. Your statutory rights will not be affected.</li>
+			</ol>
+		</div>
+	</div>
+	<div class='row contact'>
+		<div class='col-md-3'>
+			<h3>Address</h3>
+			<p>re:dress Contemporary Clothes Agency
+			<p>10a Romsey Road</p>
+			<p>Winchester</p>
+			<p>SO23 8TP</p>
+			<h3>Telephone</h3>
+			<p>01962 841184</p>
+			<h3>Email</h3>
+			<a href='mailto:lindsay@redresswinchester.com'><p>lindsay@redresswinchester.com</p></a>
+			</p>
+		</div>
+		<div class='col-md-9'>
+			<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2507.429521951568!2d-1.3202184499999998!3d51.063620699999994!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48740d8db8090e7f%3A0x8e3a32dfff969530!2sReDress+Contemporary+Clothing+Agency%2C+Romsey+Rd%2C+Winchester%2C+United+Kingdom!5e0!3m2!1sen!2s!4v1390921285331" width="650" height="450" frameborder="0" style="border:0"></iframe>
+		</div>
+	</div>
+</div>
+<footer>
+	<div class='container'>
+	    <div class='row'>
+		    <div class='col-md-12'>
+		        <p>re:dress Contemporary Clothes Agency, 10a Romsey Road, Winchester, Hampshire, SO23 8TP</p>
+		    </div>
+	    </div>
+	</div>
+</footer>
 </body>
 </html>

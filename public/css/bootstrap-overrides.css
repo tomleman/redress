@@ -1,44 +1,82 @@
 body {
-	background-color: #FCFFBF;
+	/*background-color: #FCFFBF;*/
+	background:url(/img/ricepaper.png);
 }
 
-img {
+.container {
+	max-width: 960px;
+}
+
+.main {
+	padding-top: 192px
+}
+
+.shop {
 	display: block;
-	max-width:292px;
+	max-width:65%;
 	margin-left: auto;
 	margin-right:auto;
 }
 
-h1 {
+.tag {
+	margin-top: 0;
+	font-weight: 300;
+}
+
+.nav li a {
+	padding-top: 0;	
+}
+
+.lindsay {
+	max-width: 400px;
+}
+
+header {
+	width: 100%;
+	position: fixed;
+	background:url(/img/ricepaper.png);
+	padding-top: 5px;
+	text-align: center;
+	z-index: 9999;
+}
+
+.contact {
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.navbar-default {
+	max-width: 615px;
+	margin-left: auto;
+	margin-right: auto;
+	background:url(/img/ricepaper.png);
+	box-shadow: none;
+	border: none;
+	min-height: 35px;
+	margin-bottom: 0;
+}
+
+h2 {
 	text-align: center;
 }
 
+.row {
+	padding: 25px 0;
+}
+
 .logo {
-	max-width: 35%;
+	max-width: 41%;
+	display: block;
+	margin-left: auto;
+	margin-right:auto;
 }
 
 h4 {
 	text-align: center;	
 }
 
-.navbar-nav {
-	padding-top: 17px;
-}
-
-.collapse {
-	background-color: #FCFFBF
-}
-
 ul > li > a {
 	font-size : 20px;
-}
-
-.navbar-brand {
-	padding-top: 12px;
-}
-
-.terms {
-	padding: 0 120px;
 }
 
 ol > li {
@@ -58,19 +96,5 @@ footer {
 }
 
 @media (max-width: 767px) {
-	.mobile-head {
-		height: 23px;
-	}
 
-	.navbar-collapse {
-		background-color: #FCFFBF;
-	}
-
-	.navbar-header {
-		background-color: #FCFFBF;
-	}
-
-	/*.terms {
-		padding: 0;
-	}*/
 }
