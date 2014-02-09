@@ -1,6 +1,5 @@
 body {
-	/*background-color: #FCFFBF;*/
-	background:url(/img/ricepaper.png);
+	background:url(../img/ricepaper.png);
 }
 
 .container {
@@ -25,16 +24,18 @@ body {
 
 .nav li a {
 	padding-top: 0;	
+	cursor:pointer;
+	cursor: hand;
 }
 
 .lindsay {
-	max-width: 400px;
+	max-width: 445px;
 }
 
 header {
 	width: 100%;
 	position: fixed;
-	background:url(/img/ricepaper.png);
+	background:url(../img/ricepaper.png);
 	padding-top: 5px;
 	text-align: center;
 	z-index: 9999;
@@ -49,7 +50,7 @@ header {
 	max-width: 615px;
 	margin-left: auto;
 	margin-right: auto;
-	background:url(/img/ricepaper.png);
+	background:url(../img/ricepaper.png);
 	box-shadow: none;
 	border: none;
 	min-height: 35px;
@@ -62,6 +63,7 @@ h2 {
 
 .row {
 	padding: 25px 0;
+	border-bottom: 1px solid black;
 }
 
 .logo {
@@ -79,8 +81,12 @@ h3 {
 	text-align: left;	
 }
 
-.terms h3 {
+.terms h3, .contact h3 {
 	text-align: center;
+}
+
+.contact .col-md-3 h3 {
+	text-align: left;
 }
 
 ul > li > a {
@@ -101,6 +107,18 @@ ol > li {
 
 footer {
 	text-align: center;
+}
+
+.btn {
+  font-family: Arial;
+  color: #c7c7c7;
+  font-size: 17px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  text-decoration: none;
 }
 
 @media (max-width: 767px) {

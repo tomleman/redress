@@ -3,15 +3,15 @@
 <head>
     <title>re:dress Contemporary Clothes Agency</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link href="css/bootstrap.css" rel="stylesheet" media="screen">
-    <link href="css/bootstrap-theme.css" rel="stylesheet" media="screen">
-    <link href="css/bootstrap-overrides.css" rel="stylesheet" media="screen">
-    <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.0/jquery.min.js"></script> 
-    <script src="js/bootstrap.js"></script>
+    <link href="assets/css/bootstrap.css" rel="stylesheet" media="screen">
+    <link href="assets/css/bootstrap-theme.css" rel="stylesheet" media="screen">
+    <link href="assets/css/bootstrap-overrides.css" rel="stylesheet" media="screen">
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.0/jquery.min.js"></script> 
+    <script src="assets/js/bootstrap.js"></script>
 </head>
 <body>
 <header>		
-	<a href="/"><img class='logo' src='img/logo.png'></a>
+	<a href="/"><img class='logo' src='assets/img/logo.png'></a>
 	<h2 class='tag'>contemporary clothes agency</h2>
     <nav class="navbar navbar-default" role='navigation'>
 		<div class="navbar-header">
@@ -24,21 +24,21 @@
 	    </div>
 		<div class='collapse navbar-collapse' id="bs-example-navbar-collapse-1">
 			<ul class="nav navbar-nav">
-			    <li><a class='homescroll' href="">HOME</a></li>
-			    <li><a class='aboutscroll' href="">ABOUT US</a></li>
-			    <li><a class='termsscroll' href="">TERMS &amp; CONDITIONS</a></li>
-			    <li class='contactscroll'><a class='contactscroll' href="">CONTACT</a></li>
+			    <li class='homescroll'><a class='homescroll'>HOME</a></li>
+			    <li><a class='aboutscroll'>ABOUT US</a></li>
+			    <li><a class='termsscroll'>TERMS &amp; CONDITIONS</a></li>
+			    <li><a class='contactscroll'>CONTACT</a></li>
 			</ul>
 	    </div>
 	</nav>
 </header>
 <div class='container main'>
-	<div class='row'>
+	<div class='row' id='section1'>
 		<div class='col-md-12'>
-	    	<img class='shop' src='img/shop_crop2.png'>
+	    	<img class='shop' src='assets/img/shop_crop2.png'>
 	    </div>
 	</div>
-	<div class='row'>
+	<div class='row' id='section2'>
 		<div class='col-md-6 about'>
 			<h3>About re:dress</h3>
 			<p>re:dress was opened in March 2003 by Lindsay Leman.</p>
@@ -54,10 +54,10 @@
 			</ul>
 		</div>
 		<div class='col-md-6'>
-			<img class='lindsay' src='img/lindsay.jpg'>
+			<img class='lindsay' src='assets/img/lindsay.jpg'>
 		</div>
 	</div>
-	<div class='row'>
+	<div class='row' id='section3'>
 		<div class='col-md-12 terms'>
 			<h3>Terms &amp; Conditions</h3>
 			<ol class='terms'>
@@ -73,10 +73,11 @@
 			</ol>
 		</div>
 	</div>
-	<div class='row contact'>
+	<div class='row contact' id='section4'>
+		<h3>Come and See Us!</h3>
 		<div class='col-md-3'>
 			<h3>Address</h3>
-			<p>re:dress Contemporary Clothes Agency
+			<p>re:dress</p>
 			<p>10a Romsey Road</p>
 			<p>Winchester</p>
 			<p>SO23 8TP</p>
@@ -87,7 +88,7 @@
 			</p>
 		</div>
 		<div class='col-md-9 map'>
-			<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2507.429521951568!2d-1.3202184499999998!3d51.063620699999994!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48740d8db8090e7f%3A0x8e3a32dfff969530!2sReDress+Contemporary+Clothing+Agency%2C+Romsey+Rd%2C+Winchester%2C+United+Kingdom!5e0!3m2!1sen!2s!4v1390921285331" width="650" height="450" frameborder="0" style="border:0"></iframe>
+			<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2507.429521951568!2d-1.3202184499999998!3d51.063620699999994!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48740d8db8090e7f%3A0x8e3a32dfff969530!2sReDress+Contemporary+Clothing+Agency%2C+Romsey+Rd%2C+Winchester%2C+United+Kingdom!5e0!3m2!1sen!2s!4v1390921285331" width="660" height="450" frameborder="0" style="border:0"></iframe>
 		</div>
 	</div>
 </div>
@@ -98,11 +99,21 @@
 		    <small>Site designed and developed by <a href='http://doodletreedev.com'>DoodleTree Development</a></small>
 	    </div>
 	</div>
-</footer>
-<script type='text/javascript'>
-$('.contactscroll').click({
-	$.scrollTo('800px', y;
-});
+</footer>c
+<script>
+	$('.homescroll').click(function(){
+		$('body', 'html').animate({scrollTop: '0px'});
+	});
+	$('.aboutscroll').click(function(){
+		$('body', 'html').animate({scrollTop: '445px'});
+	});
+	$('.termsscroll').click(function(){
+		$('body', 'html').animate({scrollTop: '990px'});
+	});
+	$('.contactscroll').click(function(){
+        $('body', 'html').animate({scrollTop: '1390px'});
+    });
+
 </script>
 </body>
 </html>
